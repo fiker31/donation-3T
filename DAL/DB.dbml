@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="DigitalTickets" Class="DBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=ISCST-APP-S68\ABENI2;Initial Catalog=DigitalTickets;User ID=SA;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False" SettingsObjectName="DAL.Properties.Settings" SettingsPropertyName="DigitalTicketsConnectionString3" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.AuditColumns" Member="AuditColumns">
+    <Type Name="AuditColumn">
+      <Column Name="ColumnID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="TableID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="ColumnName" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AuditLog" Member="AuditLogs">
+    <Type Name="AuditLog">
+      <Column Name="AuditLogID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="TableID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="RowsAffected" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="Event" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="EventDateTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AuditLogDetail" Member="AuditLogDetails">
+    <Type Name="AuditLogDetail">
+      <Column Name="AuditLogDetailID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="AuditLogID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="RowKey" Type="System.String" DbType="VarChar(512) NOT NULL" CanBeNull="false" />
+      <Column Name="ColumnID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="OldValue" Type="System.String" DbType="VarChar(4000)" CanBeNull="true" />
+      <Column Name="NewValue" Type="System.String" DbType="VarChar(4000)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.AuditTables" Member="AuditTables">
+    <Type Name="AuditTable">
+      <Column Name="TableID" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="TableName" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="PKeyField" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AuditInserts" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="AuditUpdates" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="AuditDeletes" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="UserColumn" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Branch" Member="Branches">
+    <Type Name="Branch">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="DistrictID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="T24Code" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Contact" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.BusPeriod" Member="BusPeriods">
+    <Type Name="BusPeriod">
+      <Column Name="RowId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="BusinessPeriod" Type="System.String" DbType="Char(9) NOT NULL" CanBeNull="false" />
+      <Column Name="PStatus" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="Binary(8)" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.District" Member="Districts">
+    <Type Name="District">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(150)" CanBeNull="true" />
+      <Column Name="Contact" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EntCapability" Member="EntCapabilities">
+    <Type Name="EntCapability">
+      <Column Name="CapabilityId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CapabilityName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="MenuItemId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="AccessType" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EntMenuItem" Member="EntMenuItems">
+    <Type Name="EntMenuItem">
+      <Column Name="MenuItemId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="MenuItemName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="URL" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="ParentMenuItemId" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="DisplaySequence" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="IsAlwaysEnabled" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="Binary(8)" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EntPasswordHistory" Member="EntPasswordHistories">
+    <Type Name="EntPasswordHistory">
+      <Column Name="Id" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UserAccountName" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="AppName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="Binary(8)" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EntRole" Member="EntRoles">
+    <Type Name="EntRole">
+      <Column Name="RoleId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoleName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EntRoleCapability" Member="EntRoleCapabilities">
+    <Type Name="EntRoleCapability">
+      <Column Name="RoleCapabilityId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoleId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="CapabilityId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="AccessFlag" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EntRoleUserAccount" Member="EntRoleUserAccounts">
+    <Type Name="EntRoleUserAccount">
+      <Column Name="RoleUserAccountId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="RoleId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="UserAccountId" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.EntUserAccount" Member="EntUserAccounts">
+    <Type Name="EntUserAccount">
+      <Column Name="UserAccountId" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserAccountName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LastName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Position" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Department" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Email" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="BranchID" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="IsActive" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="UserPassword" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PWDChangeDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="IsNewPassword" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="IsLocked" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="PAsswordAttemptNo" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Holiday" Member="Holidays">
+    <Type Name="Holiday">
+      <Column Name="Id" Type="System.Int64" DbType="BigInt NOT NULL" CanBeNull="false" />
+      <Column Name="HolidayName" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="HolidayDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SysPar" Member="SysPars">
+    <Type Name="SysPar">
+      <Column Name="GLCodeLen" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="SLCodeLen" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="MinPWDLen" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="MinLoginIdLen" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="TotalCapital" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.SysSecurityParm" Member="SysSecurityParms">
+    <Type Name="SysSecurityParm">
+      <Column Name="LoginIdMinLength" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordMinLength" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordMustHaveDigit" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordMustHaveLowerCase" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordMustHaveUpperCase" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordMustHaveSpecialChar" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="AllowedUnsuccessfulAttempts" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordInterval" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="PasswordHistory" Type="System.Byte" DbType="TinyInt NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ticket_Category" Member="Ticket_Categories">
+    <Type Name="Ticket_Category">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CategoryName" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ticket_Organizer" Member="Ticket_Organizers">
+    <Type Name="Ticket_Organizer">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="TillNumber" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="BusinessDetail" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="ContactDetail" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.LogInOut" Member="LogInOuts">
+    <Type Name="LogInOut">
+      <Column Name="Id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="UserID" Type="System.String" DbType="VarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="LogInDT" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="LogOutDT" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Status" Type="System.Char" DbType="Char(1) NOT NULL" CanBeNull="false" />
+      <Column Name="UserHost" Type="System.String" DbType="VarChar(50) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ticket_Basic" Member="Ticket_Basics">
+    <Type Name="Ticket_Basic">
+      <Column Name="ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Title" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="Poster" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="FromDate" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ToDate" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="FromTime" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Column Name="ToTime" Type="System.TimeSpan" DbType="Time NOT NULL" CanBeNull="false" />
+      <Column Name="OrganizerID" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="SingleTicketingLimit" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="Description" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Price" Type="System.String" DbType="VarChar(MAX)" CanBeNull="true" />
+      <Column Name="Location" Type="System.String" DbType="VarChar(500) NOT NULL" CanBeNull="false" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(150) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Student" Member="Students">
+    <Type Name="Student">
+      <Column Name="Id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Firstname" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="Lastname" Type="System.String" DbType="VarChar(250)" CanBeNull="true" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Employee" Member="Employees">
+    <Type Name="Employee">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Firstname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Lastname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Department" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Position" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Donationmade" Member="Donationmades">
+    <Type Name="Donationmade">
+      <Column Name="Id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DonationId" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CustomerPhone" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CustomerName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DonationAmount" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="DonationDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DonationReg_List" Member="DonationReg_Lists">
+    <Type Name="DonationReg_List">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="companyid" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="donationtitle" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="donationdescription" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="donationamountrequired" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="donationenddate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="specialshortcode" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="donationrelatedlinks" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="sms" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="email" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Donator_p" Member="Donator_ps">
+    <Type Name="Donator_p">
+      <Column Name="Id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Fullname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="CustomerPhone" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="RecursiveDonations" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.companyReg" Member="companyRegs">
+    <Type Name="companyReg">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="companyname" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="companydescription" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="location" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="phone" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="pobox" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="generalmanager" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="tillnumber" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="formationDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="InsertUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateUserId" Type="System.String" DbType="VarChar(250) NOT NULL" CanBeNull="false" />
+      <Column Name="UpdateDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="EntryDate" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="Version" Type="System.Data.Linq.Binary" DbType="rowversion NOT NULL" CanBeNull="false" IsVersion="true" />
+    </Type>
+  </Table>
+</Database>

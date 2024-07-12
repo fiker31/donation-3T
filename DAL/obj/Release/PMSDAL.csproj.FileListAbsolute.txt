@@ -1,0 +1,10 @@
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMDAL\obj\Release\PMSDAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMDAL\obj\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMDAL\obj\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FRMDAL\bin\Release\PMSDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FRMDAL\bin\Release\PMSDAL.dll
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FRMDAL\bin\Release\PMSDAL.pdb
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FRMDAL\obj\Release\PMSDAL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FRMDAL\obj\Release\PMSDAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FRMDAL\obj\Release\PMSDAL.dll
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FRMDAL\obj\Release\PMSDAL.pdb

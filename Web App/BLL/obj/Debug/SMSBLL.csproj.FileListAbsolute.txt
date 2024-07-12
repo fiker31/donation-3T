@@ -1,0 +1,10 @@
+D:\SC-Project\SC_Solution\SMSBLL\bin\Debug\SMSBLL.dll
+D:\SC-Project\SC_Solution\SMSBLL\bin\Debug\SMSBLL.pdb
+D:\SC-Project\SC_Solution\SMSBLL\bin\Debug\SMSDAL.dll
+D:\SC-Project\SC_Solution\SMSBLL\bin\Debug\SystemSecurityUtil.dll
+D:\SC-Project\SC_Solution\SMSBLL\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\SC-Project\SC_Solution\SMSBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\SC-Project\SC_Solution\SMSBLL\bin\Debug\SMSDAL.pdb
+D:\SC-Project\SC_Solution\SMSBLL\obj\Debug\SMSBLL.csprojResolveAssemblyReference.cache
+D:\SC-Project\SC_Solution\SMSBLL\obj\Debug\SMSBLL.dll
+D:\SC-Project\SC_Solution\SMSBLL\obj\Debug\SMSBLL.pdb

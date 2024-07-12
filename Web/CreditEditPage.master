@@ -1,0 +1,56 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Credit.master" AutoEventWireup="false" CodeFile="CreditEditPage.master.cs" Inherits="CreditEditPage" %>
+
+<%@ Register Assembly="FrameworkControls" Namespace="FrameworkControls" TagPrefix="cc1" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="Server">
+    <asp:ContentPlaceHolder ID="BootstrapContentPlaceHolder" runat="server">
+    </asp:ContentPlaceHolder>
+    <script language="javascript" type="text/javascript">
+        function ConfirmDelete() {
+            return confirm("Do you want to permanently delete this item?");
+        }
+    </script>
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="Server">
+    <div class="col-md-12">
+        <div class="card card-secondary card-outline">
+            <div class="card-header">
+                <asp:LinkButton ID="btnNew" runat="server" Text="New" CssClass="btn btn-secondary"
+                    OnClick="btnNew_Click" CausesValidation="False"> <i class="fa fa-plus-circle"></i> New</asp:LinkButton>
+                &nbsp;&nbsp;
+                        <asp:LinkButton ID="btnEdit" runat="server" Text="Edit" CssClass="btn btn-secondary"
+                            OnClick="btnEdit_Click" CausesValidation="False"><i class="fa fa-pencil-alt"></i> Edit</asp:LinkButton>
+                &nbsp;&nbsp;
+                    <asp:LinkButton ID="btnSave" runat="server" Text="Save" CssClass="btn btn-secondary disabled"
+                        OnClick="btnSave_Click" Enabled="False"><i class="fa fa-save"></i> Save</asp:LinkButton>
+                &nbsp;&nbsp;
+                        <asp:LinkButton ID="btnCancel" runat="server" Text="Cancel" CssClass="btn btn-secondary"
+                            OnClick="btnCancel_Click" CausesValidation="False"><i class="fa fa-times"></i> Cancel</asp:LinkButton>
+                &nbsp;&nbsp;
+                        <asp:LinkButton ID="btnDelete" runat="server" Text="Delete" CssClass="btn btn-secondary"
+                            OnClick="btnDelete_Click" OnClientClick="return ConfirmDelete();"><i class="fa fa-trash-alt"></i> Delete</asp:LinkButton>
+                &nbsp;&nbsp;
+                        <asp:LinkButton ID="btnFind" runat="server" Text="Find" CssClass="btn btn-secondary "
+                            OnClick="btnFind_Click" CausesValidation="False"><i class="fa fa-search"></i> Find</asp:LinkButton>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <div class="card card-secondary card-outline">
+            <div class="card-header">
+                <h3 class="card-title"><i class="fa fa-info-circle"></i>&nbsp; Please enter the record below!</h3>
+                <div class="card-tools">
+                    <button type="button" class="btn btn-tool" data-card-widget="collapse">
+                        <i class="fas fa-minus"></i>
+                    </button>
+                </div>
+            </div>
+            <div class="card-body">
+                <cc1:ValidationErrorMessages ID="ValidationErrorMessages1" runat="server" />
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server"></asp:ContentPlaceHolder>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-12">
+        <asp:ContentPlaceHolder ID="gvContentPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+    </div>
+</asp:Content>

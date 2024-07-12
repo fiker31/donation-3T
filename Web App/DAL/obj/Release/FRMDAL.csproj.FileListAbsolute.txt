@@ -1,0 +1,60 @@
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\bin\Release\FRMDAL.dll.config
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\bin\Release\FRMDAL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\bin\Release\FRMDAL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\obj\Release\FRMDAL.csprojResolveAssemblyReference.cache
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\obj\Release\FRMDAL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\obj\Release\FRMDAL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\bin\Release\FRMDAL.dll.config
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\bin\Release\FRMDAL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\bin\Release\FRMDAL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\obj\Release\FRMDAL.csprojResolveAssemblyReference.cache
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\obj\Release\FRMDAL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\obj\Release\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\bin\Release\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\bin\Release\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\bin\Release\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\obj\Release\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\obj\Release\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\obj\Release\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\obj\Release\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\bin\Release\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\bin\Release\FRMDAL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\bin\Release\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\obj\Release\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\obj\Release\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\obj\Release\FRMDAL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\obj\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMDAL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMDAL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMDAL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMDAL\obj\Release\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMDAL\obj\Release\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMDAL\obj\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMDAL\obj\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\obj\Release\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\obj\Release\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\obj\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\obj\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMDAL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMDAL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMDAL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMDAL\obj\Release\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMDAL\obj\Release\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMDAL\obj\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMDAL\obj\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMDAL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMDAL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMDAL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMDAL\obj\Release\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMDAL\obj\Release\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMDAL\obj\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMDAL\obj\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMDAL\obj\Release\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMDAL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMDAL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMDAL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMDAL\obj\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMDAL\obj\Release\FRMDAL.pdb

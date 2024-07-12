@@ -1,0 +1,10 @@
+D:\Printing_Solution\PrintBLL\bin\Debug\PrintBLL.dll
+D:\Printing_Solution\PrintBLL\bin\Debug\PrintBLL.pdb
+D:\Printing_Solution\PrintBLL\bin\Debug\PrintDAL.dll
+D:\Printing_Solution\PrintBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Printing_Solution\PrintBLL\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Printing_Solution\PrintBLL\bin\Debug\PrintDAL.pdb
+D:\Printing_Solution\PrintBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Printing_Solution\PrintBLL\obj\Debug\PrintBLL.csprojResolveAssemblyReference.cache
+D:\Printing_Solution\PrintBLL\obj\Debug\PrintBLL.dll
+D:\Printing_Solution\PrintBLL\obj\Debug\PrintBLL.pdb

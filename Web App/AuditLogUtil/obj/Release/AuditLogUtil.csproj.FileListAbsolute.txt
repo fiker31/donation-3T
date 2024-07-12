@@ -1,0 +1,5 @@
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\obj\Release\ResolveAssemblyReference.cache
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\bin\Release\AuditLogUtil.dll
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\bin\Release\AuditLogUtil.pdb
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\obj\Release\AuditLogUtil.dll
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\obj\Release\AuditLogUtil.pdb

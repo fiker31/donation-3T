@@ -1,0 +1,320 @@
+D:\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Foreign Currency\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.csprojResolveAssemblyReference.cache
+D:\Foreign Currency\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Foreign Currency\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.dll
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.dll
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\bin\Debug\Microsoft.SqlServer.Replication.dll
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.csprojResolveAssemblyReference.cache
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.dll
+D:\FCRMS Final Application Code\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.csprojResolveAssemblyReference.cache
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.csprojResolveAssemblyReference.cache
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.csprojResolveAssemblyReference.cache
+D:\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.dll
+D:\FRM_Solution\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.dll
+D:\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\FRM_Solution\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\FRM_Solution\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.dll
+D:\FRM_Solution\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\SDC\FRMBLL\bin\Debug\FRMBLL.dll
+D:\SDC\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\SDC\FRMBLL\bin\Debug\FRMDAL.dll
+D:\SDC\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\SDC\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\SDC\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\SDC\FRMBLL\obj\Debug\FRMBLL.csprojResolveAssemblyReference.cache
+D:\SDC\FRMBLL\obj\Debug\FRMBLL.dll
+D:\SDC\FRMBLL\obj\Debug\FRMBLL.pdb
+C:\Users\CBE\Desktop\SDC\FRMBLL\bin\Debug\FRMBLL.dll
+C:\Users\CBE\Desktop\SDC\FRMBLL\bin\Debug\FRMBLL.pdb
+C:\Users\CBE\Desktop\SDC\FRMBLL\bin\Debug\FRMDAL.dll
+C:\Users\CBE\Desktop\SDC\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+C:\Users\CBE\Desktop\SDC\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+C:\Users\CBE\Desktop\SDC\FRMBLL\bin\Debug\FRMDAL.pdb
+C:\Users\CBE\Desktop\SDC\FRMBLL\bin\Debug\FRMDAL.dll.config
+C:\Users\CBE\Desktop\SDC\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+C:\Users\CBE\Desktop\SDC\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+C:\Users\CBE\Desktop\SDC\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+C:\Users\CBE\Desktop\SDC\FRMBLL\obj\Debug\FRMBLL.dll
+C:\Users\CBE\Desktop\SDC\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMBLL.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMBLL.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMDAL.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMDAL.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\bin\Debug\FRMDAL.dll.config
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\CBE\Credit Association\Version 4\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\CBE\Credit Association\Version 11\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\Foreclosure\Version 2\LMS\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Debug\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Debug\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Debug\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Debug\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Debug\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Debug\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Debug\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Debug\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Debug\FRMBLL.pdb

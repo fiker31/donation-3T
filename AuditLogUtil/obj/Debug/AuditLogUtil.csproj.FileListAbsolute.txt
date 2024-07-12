@@ -1,0 +1,40 @@
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\bin\Debug\AuditLogUtil.dll
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\bin\Debug\AuditLogUtil.pdb
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\obj\Debug\AuditLogUtil.dll
+D:\Utilities\DBAuditTriggerGenerator\AuditLogUtil\obj\Debug\AuditLogUtil.pdb
+E:\DBAuditTriggerGenerator\AuditLogUtil\bin\Debug\AuditLogUtil.dll
+E:\DBAuditTriggerGenerator\AuditLogUtil\bin\Debug\AuditLogUtil.pdb
+E:\DBAuditTriggerGenerator\AuditLogUtil\obj\Debug\ResolveAssemblyReference.cache
+E:\DBAuditTriggerGenerator\AuditLogUtil\obj\Debug\AuditLogUtil.dll
+E:\DBAuditTriggerGenerator\AuditLogUtil\obj\Debug\AuditLogUtil.pdb
+E:\HRRating\HRRating\AuditLogUtil\bin\Debug\AuditLogUtil.dll
+E:\HRRating\HRRating\AuditLogUtil\bin\Debug\AuditLogUtil.pdb
+E:\HRRating\HRRating\AuditLogUtil\obj\Debug\ResolveAssemblyReference.cache
+E:\HRRating\HRRating\AuditLogUtil\obj\Debug\AuditLogUtil.dll
+E:\HRRating\HRRating\AuditLogUtil\obj\Debug\AuditLogUtil.pdb
+D:\HRRating\HRRating\AuditLogUtil\bin\Debug\AuditLogUtil.dll
+D:\HRRating\HRRating\AuditLogUtil\bin\Debug\AuditLogUtil.pdb
+D:\HRRating\HRRating\AuditLogUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\HRRating\HRRating\AuditLogUtil\obj\Debug\AuditLogUtil.dll
+D:\HRRating\HRRating\AuditLogUtil\obj\Debug\AuditLogUtil.pdb
+D:\Bond Management System\Three Tier FrameworkBMW\AuditLogUtil\bin\Debug\AuditLogUtil.dll
+D:\Bond Management System\Three Tier FrameworkBMW\AuditLogUtil\bin\Debug\AuditLogUtil.pdb
+D:\Bond Management System\Three Tier FrameworkBMW\AuditLogUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\Bond Management System\Three Tier FrameworkBMW\AuditLogUtil\obj\Debug\AuditLogUtil.dll
+D:\Bond Management System\Three Tier FrameworkBMW\AuditLogUtil\obj\Debug\AuditLogUtil.pdb
+D:\Project\FCRMS Project\FCRMS\AuditLogUtil\bin\Debug\AuditLogUtil.dll
+D:\Project\FCRMS Project\FCRMS\AuditLogUtil\bin\Debug\AuditLogUtil.pdb
+D:\Project\FCRMS Project\FCRMS\AuditLogUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\FCRMS Project\FCRMS\AuditLogUtil\obj\Debug\AuditLogUtil.dll
+D:\Project\FCRMS Project\FCRMS\AuditLogUtil\obj\Debug\AuditLogUtil.pdb
+D:\FINAL FCRMS\FCRMS\AuditLogUtil\bin\Debug\AuditLogUtil.dll
+D:\FINAL FCRMS\FCRMS\AuditLogUtil\bin\Debug\AuditLogUtil.pdb
+D:\FINAL FCRMS\FCRMS\AuditLogUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\FINAL FCRMS\FCRMS\AuditLogUtil\obj\Debug\AuditLogUtil.dll
+D:\FINAL FCRMS\FCRMS\AuditLogUtil\obj\Debug\AuditLogUtil.pdb
+D:\HIRAS\AuditLogUtil\bin\Debug\AuditLogUtil.dll
+D:\HIRAS\AuditLogUtil\bin\Debug\AuditLogUtil.pdb
+D:\HIRAS\AuditLogUtil\obj\Debug\ResolveAssemblyReference.cache
+D:\HIRAS\AuditLogUtil\obj\Debug\AuditLogUtil.dll
+D:\HIRAS\AuditLogUtil\obj\Debug\AuditLogUtil.pdb

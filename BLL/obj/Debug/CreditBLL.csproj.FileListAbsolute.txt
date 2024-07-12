@@ -1,0 +1,29 @@
+E:\Credit Association\GYM\CreditBLL\bin\Debug\GymBLL.dll
+E:\Credit Association\GYM\CreditBLL\bin\Debug\GymBLL.pdb
+E:\Credit Association\GYM\CreditBLL\bin\Debug\GymDAL.dll
+E:\Credit Association\GYM\CreditBLL\bin\Debug\SystemSecurityUtil.dll
+E:\Credit Association\GYM\CreditBLL\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\Credit Association\GYM\CreditBLL\bin\Debug\GymDAL.pdb
+E:\Credit Association\GYM\CreditBLL\bin\Debug\SystemSecurityUtil.pdb
+E:\Credit Association\GYM\CreditBLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\GYM\CreditBLL\obj\Debug\GymBLL.dll
+E:\Credit Association\GYM\CreditBLL\obj\Debug\GymBLL.pdb
+E:\Credit Association\CreditSaving\CreditBLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\CreditSaving\CreditBLL\bin\Debug\CreditBLL.dll
+E:\Credit Association\CreditSaving\CreditBLL\bin\Debug\CreditBLL.pdb
+E:\Credit Association\CreditSaving\CreditBLL\bin\Debug\CreditDAL.dll
+E:\Credit Association\CreditSaving\CreditBLL\bin\Debug\SystemSecurityUtil.dll
+E:\Credit Association\CreditSaving\CreditBLL\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\Credit Association\CreditSaving\CreditBLL\bin\Debug\CreditDAL.pdb
+E:\Credit Association\CreditSaving\CreditBLL\bin\Debug\SystemSecurityUtil.pdb
+E:\Credit Association\CreditSaving\CreditBLL\obj\Debug\CreditBLL.dll
+E:\Credit Association\CreditSaving\CreditBLL\obj\Debug\CreditBLL.pdb
+D:\New folder (7)\CreditSaving\CreditBLL\bin\Debug\CreditBLL.dll
+D:\New folder (7)\CreditSaving\CreditBLL\bin\Debug\CreditBLL.pdb
+D:\New folder (7)\CreditSaving\CreditBLL\bin\Debug\CreditDAL.dll
+D:\New folder (7)\CreditSaving\CreditBLL\bin\Debug\SystemSecurityUtil.dll
+D:\New folder (7)\CreditSaving\CreditBLL\bin\Debug\CreditDAL.pdb
+D:\New folder (7)\CreditSaving\CreditBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\New folder (7)\CreditSaving\CreditBLL\obj\Debug\CreditBLL.csprojResolveAssemblyReference.cache
+D:\New folder (7)\CreditSaving\CreditBLL\obj\Debug\CreditBLL.dll
+D:\New folder (7)\CreditSaving\CreditBLL\obj\Debug\CreditBLL.pdb

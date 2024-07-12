@@ -1,0 +1,30 @@
+D:\MIS Project\MIS\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\MIS Project\MIS\SDC.Util\bin\Debug\SDC.Util.dll
+D:\MIS Project\MIS\SDC.Util\bin\Debug\SDC.Util.pdb
+D:\MIS Project\MIS\SDC.Util\obj\Debug\SDC.Util.dll
+D:\MIS Project\MIS\SDC.Util\obj\Debug\SDC.Util.pdb
+D:\CRRS\CRRS\SDC.Util\bin\Debug\SDC.Util.dll
+D:\CRRS\CRRS\SDC.Util\bin\Debug\SDC.Util.pdb
+D:\CRRS\CRRS\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\CRRS\CRRS\SDC.Util\obj\Debug\SDC.Util.dll
+D:\CRRS\CRRS\SDC.Util\obj\Debug\SDC.Util.pdb
+C:\Documents and Settings\misrak\Desktop\New Folder (2)\CRRS\SDC.Util\bin\Debug\SDC.Util.dll
+C:\Documents and Settings\misrak\Desktop\New Folder (2)\CRRS\SDC.Util\bin\Debug\SDC.Util.pdb
+C:\Documents and Settings\misrak\Desktop\New Folder (2)\CRRS\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\misrak\Desktop\New Folder (2)\CRRS\SDC.Util\obj\Debug\SDC.Util.dll
+C:\Documents and Settings\misrak\Desktop\New Folder (2)\CRRS\SDC.Util\obj\Debug\SDC.Util.pdb
+C:\Crms\CRRS\SDC.Util\bin\Debug\SDC.Util.dll
+C:\Crms\CRRS\SDC.Util\bin\Debug\SDC.Util.pdb
+C:\Crms\CRRS\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+C:\Crms\CRRS\SDC.Util\obj\Debug\SDC.Util.dll
+C:\Crms\CRRS\SDC.Util\obj\Debug\SDC.Util.pdb
+E:\Crms\CRRS\SDC.Util\bin\Debug\SDC.Util.dll
+E:\Crms\CRRS\SDC.Util\bin\Debug\SDC.Util.pdb
+E:\Crms\CRRS\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+E:\Crms\CRRS\SDC.Util\obj\Debug\SDC.Util.dll
+E:\Crms\CRRS\SDC.Util\obj\Debug\SDC.Util.pdb
+E:\HRRating\HRRating\SDC.Util\bin\Debug\SDC.Util.dll
+E:\HRRating\HRRating\SDC.Util\bin\Debug\SDC.Util.pdb
+E:\HRRating\HRRating\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+E:\HRRating\HRRating\SDC.Util\obj\Debug\SDC.Util.dll
+E:\HRRating\HRRating\SDC.Util\obj\Debug\SDC.Util.pdb

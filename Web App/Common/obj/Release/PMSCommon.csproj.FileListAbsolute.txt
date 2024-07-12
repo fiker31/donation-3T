@@ -1,0 +1,5 @@
+D:\Project\ChangeManagement\PMS\PMSCommon\bin\Release\PMSCommon.dll
+D:\Project\ChangeManagement\PMS\PMSCommon\bin\Release\PMSCommon.pdb
+D:\Project\ChangeManagement\PMS\PMSCommon\obj\Release\ResolveAssemblyReference.cache
+D:\Project\ChangeManagement\PMS\PMSCommon\obj\Release\PMSCommon.dll
+D:\Project\ChangeManagement\PMS\PMSCommon\obj\Release\PMSCommon.pdb

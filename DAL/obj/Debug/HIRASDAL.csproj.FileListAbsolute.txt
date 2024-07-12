@@ -1,0 +1,5 @@
+D:\HIRAS\HIRASDAL\bin\Debug\HIRASDAL.dll
+D:\HIRAS\HIRASDAL\bin\Debug\HIRASDAL.pdb
+D:\HIRAS\HIRASDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\HIRAS\HIRASDAL\obj\Debug\HIRASDAL.dll
+D:\HIRAS\HIRASDAL\obj\Debug\HIRASDAL.pdb

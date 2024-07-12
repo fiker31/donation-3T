@@ -1,0 +1,56 @@
+D:\FCRMS\Foreign Currency\FRM_Solution\SDC.Util\bin\Release\SystemSecurityUtil.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\SDC.Util\obj\Release\SystemSecurityUtil.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\SDC.Util\obj\Release\SystemSecurityUtil.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\SDC.Util\bin\Release\SystemSecurityUtil.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\SDC.Util\obj\Release\SystemSecurityUtil.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\SDC.Util\obj\Release\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\bin\Release\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\obj\Release\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\obj\Release\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\obj\Release\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\obj\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\SDC.Util\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\SDC.Util\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\SDC.Util\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\SDC.Util\obj\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\obj\Release\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\obj\Release\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\obj\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\obj\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\obj\Release\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\obj\Release\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\obj\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\obj\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\SDC.Util\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\SDC.Util\obj\Release\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\SDC.Util\obj\Release\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\SDC.Util\obj\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\SDC.Util\obj\Release\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\bin\Release\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\bin\Release\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\obj\Release\SystemSecurityUtil.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\obj\Release\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\obj\Release\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\obj\Release\SystemSecurityUtil.pdb

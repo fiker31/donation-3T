@@ -1,0 +1,175 @@
+D:\Foreign Currency\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Foreign Currency\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Foreign Currency\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Foreign Currency\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Foreign Currency\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\FCRMS Final Application Code\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll
+D:\FCRMS Final Application Code\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.dll
+D:\FCRMS Final Application Code\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll.config
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.csprojResolveAssemblyReference.cache
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.dll
+D:\FRM_Solution\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.dll
+D:\FRM_Solution\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\SDC\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\SDC\FRMDAL\bin\Debug\FRMDAL.dll
+D:\SDC\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\SDC\FRMDAL\obj\Debug\FRMDAL.dll
+D:\SDC\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\SDC\FRMDAL\obj\Debug\FRMDAL.csprojResolveAssemblyReference.cache
+C:\Users\CBE\Desktop\SDC\FRMDAL\bin\Debug\FRMDAL.dll.config
+C:\Users\CBE\Desktop\SDC\FRMDAL\bin\Debug\FRMDAL.dll
+C:\Users\CBE\Desktop\SDC\FRMDAL\bin\Debug\FRMDAL.pdb
+C:\Users\CBE\Desktop\SDC\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+C:\Users\CBE\Desktop\SDC\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+C:\Users\CBE\Desktop\SDC\FRMDAL\obj\Debug\FRMDAL.dll
+C:\Users\CBE\Desktop\SDC\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Three Tier Framework + DB\FRMDAL\obj\Debug\FRMDAL.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMDAL\bin\Debug\FRMDAL.dll.config
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMDAL\bin\Debug\FRMDAL.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMDAL\bin\Debug\FRMDAL.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMDAL\obj\Debug\FRMDAL.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMDAL\obj\Debug\FRMDAL.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\CBE\Credit Association\Version 11\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\CBE\Credit Association\Version 11\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\CBE\Credit Association\Version 11\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\CBE\Credit Association\Version 11\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\CBE\Credit Association\Version 11\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\CBE\Credit Association\Version 11\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\CBE\Credit Association\Version 11\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2\LMS\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2\LMS\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 2\LMS\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2\LMS\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2\LMS\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMDAL\obj\Debug\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\bin\Debug\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\bin\Debug\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\bin\Debug\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\obj\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\obj\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\obj\Debug\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMDAL\obj\Debug\FRMDAL.pdb

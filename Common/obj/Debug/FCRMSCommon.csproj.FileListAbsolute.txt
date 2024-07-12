@@ -1,0 +1,20 @@
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSCommon\bin\Debug\BrandCommon.dll
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSCommon\bin\Debug\BrandCommon.pdb
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSCommon\obj\Debug\BrandCommon.dll
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSCommon\obj\Debug\BrandCommon.pdb
+P:\FCRMS\FCRMSCommon\bin\Debug\BrandCommon.dll
+P:\FCRMS\FCRMSCommon\bin\Debug\BrandCommon.pdb
+P:\FCRMS\FCRMSCommon\obj\Debug\ResolveAssemblyReference.cache
+P:\FCRMS\FCRMSCommon\obj\Debug\BrandCommon.dll
+P:\FCRMS\FCRMSCommon\obj\Debug\BrandCommon.pdb
+D:\Project\FCRMS Project\FCRMS\FCRMSCommon\bin\Debug\BrandCommon.dll
+D:\Project\FCRMS Project\FCRMS\FCRMSCommon\bin\Debug\BrandCommon.pdb
+D:\Project\FCRMS Project\FCRMS\FCRMSCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\FCRMS Project\FCRMS\FCRMSCommon\obj\Debug\BrandCommon.dll
+D:\Project\FCRMS Project\FCRMS\FCRMSCommon\obj\Debug\BrandCommon.pdb
+D:\FINAL FCRMS\FCRMS\FCRMSCommon\bin\Debug\BrandCommon.dll
+D:\FINAL FCRMS\FCRMS\FCRMSCommon\bin\Debug\BrandCommon.pdb
+D:\FINAL FCRMS\FCRMS\FCRMSCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\FINAL FCRMS\FCRMS\FCRMSCommon\obj\Debug\BrandCommon.dll
+D:\FINAL FCRMS\FCRMS\FCRMSCommon\obj\Debug\BrandCommon.pdb

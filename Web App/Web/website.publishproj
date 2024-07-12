@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+***********************************************************************************************
+website.publishproj
+WARNING: DO NOT MODIFY this file, it is used for the web publish process.
+Copyright (C) Microsoft Corporation. All rights reserved.
+***********************************************************************************************
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.30319</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3040171f-5dd5-43a9-892b-fc9b39c6315f}</ProjectGuid>
+    <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
+    <SourceWebVirtualPath>/Web</SourceWebVirtualPath>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <SourceWebProject>
+    </SourceWebProject>
+    <SourceWebMetabasePath>
+    </SourceWebMetabasePath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <!-- for VS2010 we need to use 10.5 but for VS2012+ we should use VisualStudioVersion -->
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)' =='' and '$(VisualStudioVersion)' == 10.0 ">10.5</WebPublishTargetsVersion>
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)'=='' ">$(VisualStudioVersion)</WebPublishTargetsVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(WebPublishTargetsVersion)</VSToolsPath>
+    <_WebPublishTargetsPath Condition=" '$(_WebPublishTargetsPath)'=='' ">$(VSToolsPath)</_WebPublishTargetsPath>
+    <AssemblyFileVersion Condition="'$(AssemblyFileVersion)' == ''">1.0.0.0</AssemblyFileVersion>
+    <AssemblyVersion Condition="'$(AssemblyVersion)' == ''">1.0.0.0</AssemblyVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyAttributes Include="AssemblyFileVersion">
+      <Value>$(AssemblyFileVersion)</Value>
+    </AssemblyAttributes>
+    <AssemblyAttributes Include="AssemblyVersion">
+      <Value>$(AssemblyVersion)</Value>
+    </AssemblyAttributes>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{ADC4C6C8-51C9-4C1B-9BE4-46D6E68369D4}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{E83E016B-A270-4AD2-A811-49BA0572C496}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FrameworkControls\FrameworkControls.csproj">
+      <Project>{C5E1F30F-2F90-45A4-B07E-ADB90810AB86}</Project>
+      <Name>FrameworkControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SDC.Util\SystemSecurityUtil.csproj">
+      <Project>{ADE91E9A-4C85-47DD-8FA0-D4314244081A}</Project>
+      <Name>SystemSecurityUtil</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(_WebPublishTargetsPath)\Web\Microsoft.WebSite.Publishing.targets" />
+</Project>

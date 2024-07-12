@@ -1,0 +1,308 @@
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Release\FRMBLL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Release\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Release\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Release\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Release\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Release\FRMBLL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Release\FRMDAL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Release\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Release\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Release\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\bin\Release\PMSBLL.dll
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\bin\Release\PMSDAL.dll
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\bin\Release\PMSBLL.pdb
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\bin\Release\PMSDAL.pdb
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\bin\Release\PMSDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Trial\Project Management\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\bin\Release\BLL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\bin\Release\DAL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\bin\Release\BLL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\bin\Release\DAL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\bin\Release\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 1\Project Management\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\bin\Release\BLL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\bin\Release\DAL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\bin\Release\BLL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\bin\Release\DAL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\bin\Release\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 2\Project Management\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Release\BLL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Release\DAL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Release\BLL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Release\DAL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Release\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\System.Security.Permissions.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\System.Security.Permissions.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\System.Security.Permissions.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\System.Security.Permissions.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\System.Security.Permissions.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\System.Security.Permissions.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Release\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Release\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\BLL.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\System.Security.Permissions.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\DAL.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\BLL.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\System.Security.Permissions.xml
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.xml
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\DAL.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Release\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\BLL.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\System.Security.Permissions.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\DAL.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\BLL.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\System.Security.Permissions.xml
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.xml
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\DAL.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Release\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Release\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\BLL.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.Permissions.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\DAL.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\BLL.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.Permissions.xml
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.xml
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\DAL.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\BLL.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.Permissions.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\DAL.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\BLL.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\System.IO.FileSystem.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.Permissions.xml
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\System.Security.Principal.Windows.xml
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\DAL.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Release\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Release\FrameworkControls.pdb

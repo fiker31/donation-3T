@@ -1,0 +1,144 @@
+D:\Coding\Exercise\Version 1\Web App\BLL\bin\Debug\BLL.dll
+D:\Coding\Exercise\Version 1\Web App\BLL\bin\Debug\BLL.pdb
+D:\Coding\Exercise\Version 1\Web App\BLL\bin\Debug\DAL.dll
+D:\Coding\Exercise\Version 1\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Exercise\Version 1\Web App\BLL\bin\Debug\DAL.pdb
+D:\Coding\Exercise\Version 1\Web App\BLL\bin\Debug\DAL.dll.config
+D:\Coding\Exercise\Version 1\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Exercise\Version 1\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Coding\Exercise\Version 1\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Coding\Exercise\Version 1\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Coding\Exercise\Version 1\Web App\BLL\obj\Debug\BLL.dll
+D:\Coding\Exercise\Version 1\Web App\BLL\obj\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\obj\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\BLL\obj\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\obj\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\BLL\obj\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\obj\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\BLL\obj\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\obj\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\BLL\obj\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\obj\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\BLL\obj\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\bin\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\bin\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\obj\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\BLL\obj\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\bin\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\bin\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\obj\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\BLL\obj\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\bin\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\bin\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\obj\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\BLL\obj\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\bin\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\bin\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\obj\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\BLL\obj\Debug\BLL.pdb
+E:\Coding\Three Tier Basic\Web App\BLL\bin\Debug\BLL.dll
+E:\Coding\Three Tier Basic\Web App\BLL\bin\Debug\BLL.pdb
+E:\Coding\Three Tier Basic\Web App\BLL\bin\Debug\DAL.dll
+E:\Coding\Three Tier Basic\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Three Tier Basic\Web App\BLL\bin\Debug\DAL.pdb
+E:\Coding\Three Tier Basic\Web App\BLL\bin\Debug\DAL.dll.config
+E:\Coding\Three Tier Basic\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Three Tier Basic\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\Coding\Three Tier Basic\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\Coding\Three Tier Basic\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\Coding\Three Tier Basic\Web App\BLL\obj\Debug\BLL.dll
+E:\Coding\Three Tier Basic\Web App\BLL\obj\Debug\BLL.pdb
+D:\Project_backup\Web App\Web App\BLL\bin\Debug\BLL.dll
+D:\Project_backup\Web App\Web App\BLL\bin\Debug\BLL.pdb
+D:\Project_backup\Web App\Web App\BLL\bin\Debug\DAL.dll
+D:\Project_backup\Web App\Web App\BLL\bin\Debug\SystemSecurityUtil.dll
+D:\Project_backup\Web App\Web App\BLL\bin\Debug\DAL.pdb
+D:\Project_backup\Web App\Web App\BLL\bin\Debug\DAL.dll.config
+D:\Project_backup\Web App\Web App\BLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Project_backup\Web App\Web App\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Project_backup\Web App\Web App\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Project_backup\Web App\Web App\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Project_backup\Web App\Web App\BLL\obj\Debug\BLL.dll
+D:\Project_backup\Web App\Web App\BLL\obj\Debug\BLL.pdb

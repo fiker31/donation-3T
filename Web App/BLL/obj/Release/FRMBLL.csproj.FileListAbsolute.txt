@@ -1,0 +1,102 @@
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\FRMBLL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\FRMBLL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\FRMDAL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\SystemSecurityUtil.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\SystemSecurityUtil.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\FRMDAL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\obj\Release\FRMBLL.csprojResolveAssemblyReference.cache
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\obj\Release\FRMBLL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FRMBLL\obj\Release\FRMBLL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\FRMBLL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\FRMBLL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\FRMDAL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\SystemSecurityUtil.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\SystemSecurityUtil.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\bin\Release\FRMDAL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\obj\Release\FRMBLL.csprojResolveAssemblyReference.cache
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\obj\Release\FRMBLL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FRMBLL\obj\Release\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Release\FRMBLL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Release\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Release\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Release\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Release\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Release\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Release\FRMBLL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Release\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Release\FRMDAL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Release\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Release\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Release\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FRMBLL\obj\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\obj\Release\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\obj\Release\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\obj\Release\FRMBLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\obj\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Foreclosure\FRMBLL\obj\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FRMBLL\obj\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\obj\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 2\Project Management\FRMBLL\obj\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\obj\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 4\Project Management\FRMBLL\obj\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\bin\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\bin\Release\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\bin\Release\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\bin\Release\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\bin\Release\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\bin\Release\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\bin\Release\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\obj\Release\FRMBLL.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\obj\Release\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 5\Project Management\FRMBLL\obj\Release\FRMBLL.pdb

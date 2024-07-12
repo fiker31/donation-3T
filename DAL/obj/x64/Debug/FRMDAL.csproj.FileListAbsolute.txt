@@ -1,0 +1,7 @@
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMDAL\bin\x64\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMDAL\bin\x64\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMDAL\bin\x64\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMDAL\obj\x64\Debug\FRMDAL.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMDAL\obj\x64\Debug\FRMDAL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMDAL\obj\x64\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMDAL\obj\x64\Debug\FRMDAL.pdb

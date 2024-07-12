@@ -1,0 +1,20 @@
+P:\Brand Travel\PMS\BrandCommon\bin\Debug\PMSCommon.dll
+P:\Brand Travel\PMS\BrandCommon\bin\Debug\PMSCommon.pdb
+P:\Brand Travel\PMS\BrandCommon\obj\Debug\ResolveAssemblyReference.cache
+P:\Brand Travel\PMS\BrandCommon\obj\Debug\PMSCommon.dll
+P:\Brand Travel\PMS\BrandCommon\obj\Debug\PMSCommon.pdb
+P:\SMS Selam\SMSCommon\bin\Debug\PMSCommon.dll
+P:\SMS Selam\SMSCommon\bin\Debug\PMSCommon.pdb
+P:\SMS Selam\SMSCommon\obj\Debug\ResolveAssemblyReference.cache
+P:\SMS Selam\SMSCommon\obj\Debug\PMSCommon.dll
+P:\SMS Selam\SMSCommon\obj\Debug\PMSCommon.pdb
+D:\Backup\Brand Travel\SMSCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\Brand Travel\SMSCommon\bin\Debug\BrandCommon.dll
+D:\Backup\Brand Travel\SMSCommon\bin\Debug\BrandCommon.pdb
+D:\Backup\Brand Travel\SMSCommon\obj\Debug\BrandCommon.dll
+D:\Backup\Brand Travel\SMSCommon\obj\Debug\BrandCommon.pdb
+P:\Brand Travel\Brand Travel\SMSCommon\bin\Debug\BrandCommon.dll
+P:\Brand Travel\Brand Travel\SMSCommon\bin\Debug\BrandCommon.pdb
+P:\Brand Travel\Brand Travel\SMSCommon\obj\Debug\ResolveAssemblyReference.cache
+P:\Brand Travel\Brand Travel\SMSCommon\obj\Debug\BrandCommon.dll
+P:\Brand Travel\Brand Travel\SMSCommon\obj\Debug\BrandCommon.pdb

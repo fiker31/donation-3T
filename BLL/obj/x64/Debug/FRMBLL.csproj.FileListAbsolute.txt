@@ -1,0 +1,11 @@
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\bin\x64\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\bin\x64\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\bin\x64\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\bin\x64\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\bin\x64\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\bin\x64\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\bin\x64\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\obj\x64\Debug\FRMBLL.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\obj\x64\Debug\FRMBLL.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\obj\x64\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB\FRMBLL\obj\x64\Debug\FRMBLL.pdb

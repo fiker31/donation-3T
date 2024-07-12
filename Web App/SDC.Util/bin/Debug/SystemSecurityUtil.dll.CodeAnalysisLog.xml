@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\professional\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="16.0">
+ <Namespaces>
+  <Namespace Name="SystemSecurityUtil">
+   <Messages>
+    <Message Id="Util" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+     <Issue Name="Namespace" Certainty="75" Level="CriticalWarning">Correct the spelling of 'Util' in namespace name 'SystemSecurityUtil'.</Issue>
+    </Message>
+   </Messages>
+  </Namespace>
+ </Namespaces>
+ <Targets>
+  <Target Name="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\bin\Debug\SystemSecurityUtil.dll">
+   <Modules>
+    <Module Name="systemsecurityutil.dll">
+     <Messages>
+      <Message TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+       <Issue Name="NoStrongName" Certainty="95" Level="CriticalError">Sign 'SystemSecurityUtil.dll' with a strong name key.</Issue>
+      </Message>
+      <Message Id="Util" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+       <Issue Name="Assembly" Certainty="75" Level="CriticalWarning">Correct the spelling of 'Util' in assembly name 'SystemSecurityUtil.dll'.</Issue>
+      </Message>
+      <Message TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+       <Issue Certainty="95" Level="Error">Mark 'SystemSecurityUtil.dll' with CLSCompliant(true) because it exposes externally visible types.</Issue>
+      </Message>
+     </Messages>
+     <Namespaces>
+      <Namespace Name="SystemSecurityUtil">
+       <Types>
+        <Type Name="PasswordStrengthUtil" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message Id="Util" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="75" Level="CriticalWarning">Correct the spelling of 'Util' in type name 'PasswordStrengthUtil'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#.ctor(System.Int32,System.Boolean,System.Boolean,System.Boolean,System.Boolean)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="lowerCase" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="MemberParameterShouldBeDiscreteTerm" Certainty="80" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="PasswordStrength.cs" Line="8">In member 'PasswordStrengthUtil.PasswordStrengthUtil(int, bool, bool, bool, bool)', the compound word 'lowerCase' in parameter name 'lowerCaseRequired' exists as a discrete term. If your usage is intended to be single word, case it as 'lowercase' or strip the first token entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+            <Message Id="upperCase" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="MemberParameterShouldBeDiscreteTerm" Certainty="80" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="PasswordStrength.cs" Line="8">In member 'PasswordStrengthUtil.PasswordStrengthUtil(int, bool, bool, bool, bool)', the compound word 'upperCase' in parameter name 'upperCaseRequired' exists as a discrete term. If your usage is intended to be single word, case it as 'uppercase' or strip the first token entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#HasLowerCase(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="LowerCase" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="MemberShouldBeDiscreteTerm" Certainty="80" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="PasswordStrength.cs" Line="40">The compound word 'LowerCase' in member name 'PasswordStrengthUtil.HasLowerCase(string)' exists as a discrete term. If your usage is intended to be single word, case it as 'Lowercase' or strip the first token entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#HasUpperCase(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="UpperCase" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="MemberShouldBeDiscreteTerm" Certainty="80" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="PasswordStrength.cs" Line="44">The compound word 'UpperCase' in member name 'PasswordStrengthUtil.HasUpperCase(string)' exists as a discrete term. If your usage is intended to be single word, case it as 'Uppercase' or strip the first token entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#HasValidLengh(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Lengh" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="75" Level="CriticalWarning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="PasswordStrength.cs" Line="53">Correct the spelling of 'Lengh' in member name 'PasswordStrengthUtil.HasValidLengh(string)' or remove it entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="PasswordStrength.cs" Line="54">In externally visible method 'PasswordStrengthUtil.HasValidLengh(string)', validate parameter 'password' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#IsStrong(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="System.Int32.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="PasswordStrength.cs" Line="61">Because the behavior of 'int.ToString()' could vary based on the current user's locale settings, replace this call in 'PasswordStrengthUtil.IsStrong(string)' with a call to 'int.ToString(IFormatProvider)'. If the result of 'int.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ValidationErrors" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="PasswordStrength.cs" Line="31">Change 'List&lt;string&gt;' in 'PasswordStrengthUtil.ValidationErrors' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="SecurityParameter" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#LoginIdMinLength" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Login" TypeName="UsePreferredTerms" Category="Microsoft.Naming" CheckId="CA1726" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SecurityParameter.cs" Line="6">Replace the term 'Login' in member name 'SecurityParameter.LoginIdMinLength' with the preferred alternate 'LogOn'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#PasswordMustHaveLowerCase" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="LowerCase" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="MemberShouldBeDiscreteTerm" Certainty="80" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SecurityParameter.cs" Line="9">The compound word 'LowerCase' in member name 'SecurityParameter.PasswordMustHaveLowerCase' exists as a discrete term. If your usage is intended to be single word, case it as 'Lowercase' or strip the first token entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#PasswordMustHaveUpperCase" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="UpperCase" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="MemberShouldBeDiscreteTerm" Certainty="80" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SecurityParameter.cs" Line="10">The compound word 'UpperCase' in member name 'SecurityParameter.PasswordMustHaveUpperCase' exists as a discrete term. If your usage is intended to be single word, case it as 'Uppercase' or strip the first token entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="SystemSecurityDAC" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message Id="DAC" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+           <Issue Name="Type" Certainty="85" Level="Error">Correct the casing of 'DAC' in type name 'SystemSecurityDAC' by changing it to 'Dac'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#.ctor(System.Byte)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="No" TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="MemberParameter" Certainty="85" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="17">In member 'SystemSecurityDAC.SystemSecurityDAC(byte)', correct the casing of 'No' in parameter name 'NoOfRecordsToBeStored' by changing it to 'no'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#CreateSecuritySetupObjects(System.Data.SqlClient.SqlConnection)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="155">In method 'SystemSecurityDAC.CreateSecuritySetupObjects(SqlConnection)', call System.IDisposable.Dispose on object 'command' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="155">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'SystemSecurityDAC.CreateSecuritySetupObjects(SqlConnection)' could contain the following variables 'sb'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#DbHasSecuritySetupTables()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="70">In method 'SystemSecurityDAC.DbHasSecuritySetupTables()', call System.IDisposable.Dispose on object 'command' before all references to it are out of scope.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#DeleteInactiveHistories()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="544">In method 'SystemSecurityDAC.DeleteInactiveHistories()', call System.IDisposable.Dispose on object 'command' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="544">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'SystemSecurityDAC.DeleteInactiveHistories()' could contain the following variables 'base.ToString()'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+            <Message Id="System.Int64.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="543">Because the behavior of 'long.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.DeleteInactiveHistories()' with a call to 'long.ToString(IFormatProvider)'. If the result of 'long.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#DeleteInactiveHistories(System.Int64)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="578">In method 'SystemSecurityDAC.DeleteInactiveHistories(long)', call System.IDisposable.Dispose on object 'command' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="578">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'SystemSecurityDAC.DeleteInactiveHistories(long)' could contain the following variables 'base.ToString()'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+            <Message Id="System.Int64.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="577">Because the behavior of 'long.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.DeleteInactiveHistories(long)' with a call to 'long.ToString(IFormatProvider)'. If the result of 'long.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#DropSecuritySetupObjects(System.Data.SqlClient.SqlConnection)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="95">In method 'SystemSecurityDAC.DropSecuritySetupObjects(SqlConnection)', call System.IDisposable.Dispose on object 'command' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="95">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'SystemSecurityDAC.DropSecuritySetupObjects(SqlConnection)' could contain the following variables 'sb'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetConnection(System.String)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IsNullOrEmpty" Certainty="95" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="42">Replace the call to 'string.operator !=(string, string)' in 'SystemSecurityDAC.GetConnection(string)' with a call to 'String.IsNullOrEmpty'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetEmpityPasswordHistoryObject(System.Int64,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Empity" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="75" Level="CriticalWarning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="467">Correct the spelling of 'Empity' in member name 'SystemSecurityDAC.GetEmpityPasswordHistoryObject(long, string)' or remove it entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+            <Message Id="password" TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Certainty="95" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="467">Parameter 'password' of 'SystemSecurityDAC.GetEmpityPasswordHistoryObject(long, string)' is never used. Remove the parameter or use it in the method body.</Issue>
+            </Message>
+            <Message Id="userAccountId" TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Certainty="95" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="467">Parameter 'userAccountId' of 'SystemSecurityDAC.GetEmpityPasswordHistoryObject(long, string)' is never used. Remove the parameter or use it in the method body.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetEmpitySecurityParameterObject()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Empity" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="75" Level="CriticalWarning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="348">Correct the spelling of 'Empity' in member name 'SystemSecurityDAC.GetEmpitySecurityParameterObject()' or remove it entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+            <Message TypeName="UsePropertiesWhereAppropriate" Category="Microsoft.Design" CheckId="CA1024" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Certainty="50" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="348">Change 'SystemSecurityDAC.GetEmpitySecurityParameterObject()' to a property if appropriate.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetHolidayObject(System.String,System.DateTime)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="647">In method 'SystemSecurityDAC.GetHolidayObject(string, DateTime)', call System.IDisposable.Dispose on object 'command' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="647">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'SystemSecurityDAC.GetHolidayObject(string, DateTime)' could contain the following variables 'date.ToShortDateString()'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+            <Message Id="System.Convert.ToDateTime(System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="656">Because the behavior of 'Convert.ToDateTime(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetHolidayObject(string, DateTime)' with a call to 'Convert.ToDateTime(object, IFormatProvider)'. If the result of 'Convert.ToDateTime(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="System.Convert.ToInt64(System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="656">Because the behavior of 'Convert.ToInt64(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetHolidayObject(string, DateTime)' with a call to 'Convert.ToInt64(object, IFormatProvider)'. If the result of 'Convert.ToInt64(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPasswordHistoryObject()" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="423">Change 'List&lt;PasswordHistory&gt;' in 'SystemSecurityDAC.GetPasswordHistoryObject()' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPasswordHistoryObject(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="433">In method 'SystemSecurityDAC.GetPasswordHistoryObject(string)', call System.IDisposable.Dispose on object 'command' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="427">Change 'List&lt;PasswordHistory&gt;' in 'SystemSecurityDAC.GetPasswordHistoryObject(string)' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+            <Message Id="System.Convert.ToDateTime(System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="441">Because the behavior of 'Convert.ToDateTime(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetPasswordHistoryObject(string)' with a call to 'Convert.ToDateTime(object, IFormatProvider)'. If the result of 'Convert.ToDateTime(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="System.Convert.ToInt64(System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="441">Because the behavior of 'Convert.ToInt64(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetPasswordHistoryObject(string)' with a call to 'Convert.ToInt64(object, IFormatProvider)'. If the result of 'Convert.ToInt64(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="441">Because the behavior of 'Convert.ToInt64(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetPasswordHistoryObject(string)' with a call to 'Convert.ToInt64(object, IFormatProvider)'. If the result of 'Convert.ToInt64(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetPasswordHistoryObject(System.String,System.Int64,System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="487">In method 'SystemSecurityDAC.GetPasswordHistoryObject(string, long, string)', call System.IDisposable.Dispose on object 'command' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="487">The query string passed to 'SqlCommand.SqlCommand(string, SqlConnection)' in 'SystemSecurityDAC.GetPasswordHistoryObject(string, long, string)' could contain the following variables 'new string[5][1]', 'password'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+            <Message Id="System.Convert.ToDateTime(System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="496">Because the behavior of 'Convert.ToDateTime(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetPasswordHistoryObject(string, long, string)' with a call to 'Convert.ToDateTime(object, IFormatProvider)'. If the result of 'Convert.ToDateTime(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="System.Convert.ToInt64(System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="496">Because the behavior of 'Convert.ToInt64(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetPasswordHistoryObject(string, long, string)' with a call to 'Convert.ToInt64(object, IFormatProvider)'. If the result of 'Convert.ToInt64(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="496">Because the behavior of 'Convert.ToInt64(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetPasswordHistoryObject(string, long, string)' with a call to 'Convert.ToInt64(object, IFormatProvider)'. If the result of 'Convert.ToInt64(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="System.Int64.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="486">Because the behavior of 'long.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetPasswordHistoryObject(string, long, string)' with a call to 'long.ToString(IFormatProvider)'. If the result of 'long.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#GetSecurityParameterObject(System.String)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="NonExceptionEdge" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="379">In method 'SystemSecurityDAC.GetSecurityParameterObject(string)', call System.IDisposable.Dispose on object 'command' before all references to it are out of scope.</Issue>
+            </Message>
+            <Message Id="System.Convert.ToBoolean(System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToBoolean(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToBoolean(object, IFormatProvider)'. If the result of 'Convert.ToBoolean(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToBoolean(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToBoolean(object, IFormatProvider)'. If the result of 'Convert.ToBoolean(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToBoolean(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToBoolean(object, IFormatProvider)'. If the result of 'Convert.ToBoolean(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToBoolean(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToBoolean(object, IFormatProvider)'. If the result of 'Convert.ToBoolean(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToBoolean(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToBoolean(object, IFormatProvider)'. If the result of 'Convert.ToBoolean(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToBoolean(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToBoolean(object, IFormatProvider)'. If the result of 'Convert.ToBoolean(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToBoolean(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToBoolean(object, IFormatProvider)'. If the result of 'Convert.ToBoolean(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="System.Convert.ToByte(System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToByte(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToByte(object, IFormatProvider)'. If the result of 'Convert.ToByte(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToByte(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToByte(object, IFormatProvider)'. If the result of 'Convert.ToByte(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToByte(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToByte(object, IFormatProvider)'. If the result of 'Convert.ToByte(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToByte(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToByte(object, IFormatProvider)'. If the result of 'Convert.ToByte(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToByte(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToByte(object, IFormatProvider)'. If the result of 'Convert.ToByte(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="System.Convert.ToDateTime(System.Object)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="387">Because the behavior of 'Convert.ToDateTime(object)' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.GetSecurityParameterObject(string)' with a call to 'Convert.ToDateTime(object, IFormatProvider)'. If the result of 'Convert.ToDateTime(object, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InsertDefaultSecurityParameter()" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="234">'SystemSecurityDAC.InsertDefaultSecurityParameter()' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="220">The query string passed to 'SqlCommand.CommandText.set(string)' in 'SystemSecurityDAC.InsertDefaultSecurityParameter()' could contain the following variables 'Local3.ToShortDateString()'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InsertPasswordHistory(System.Int64,System.String,System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="MarkMembersAsStatic" Category="Microsoft.Performance" CheckId="CA1822" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Certainty="95" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="595">The 'this' parameter (or 'Me' in Visual Basic) of 'SystemSecurityDAC.InsertPasswordHistory(long, string, string)' is never used. Mark the member as static (or Shared in Visual Basic) or use 'this'/'Me' in the method body or at least one property accessor, if appropriate.</Issue>
+            </Message>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="620">'SystemSecurityDAC.InsertPasswordHistory(long, string, string)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="609">The query string passed to 'SqlCommand.CommandText.set(string)' in 'SystemSecurityDAC.InsertPasswordHistory(long, string, string)' could contain the following variables 'new string[9][1]', 'userPassword', 'userId', 'new string[9][7]'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+            <Message Id="System.Int64.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="609">Because the behavior of 'long.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.InsertPasswordHistory(long, string, string)' with a call to 'long.ToString(IFormatProvider)'. If the result of 'long.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InsertSecurityParameter(SystemSecurityUtil.SecurityParameter)" Kind="Method" Static="True" Accessibility="Private" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="248">'SystemSecurityDAC.InsertSecurityParameter(SecurityParameter)' appears to have no upstream public or protected callers.</Issue>
+            </Message>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="279">'SystemSecurityDAC.InsertSecurityParameter(SecurityParameter)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="262">The query string passed to 'SqlCommand.CommandText.set(string)' in 'SystemSecurityDAC.InsertSecurityParameter(SecurityParameter)' could contain the following variables 'new string[35][1]', 'new string[35][3]', '...[13]', '...[15]', '...[17]', 'securityParameter.WorkingHourFrom', 'securityParameter.WorkingHourTo', 'securityParameter.WorkingHourToSat', 'securityParameter.UpdateUserId', '...[33]'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+            <Message Id="System.Byte.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="262">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.InsertSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="262">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.InsertSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="262">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.InsertSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="262">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.InsertSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="262">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.InsertSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#SecuredDataBase" Kind="Property" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="DataBase" TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="MemberShouldBeDiscreteTerm" Certainty="80" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="26">The compound word 'DataBase' in member name 'SystemSecurityDAC.SecuredDataBase' exists as a discrete term. If your usage is intended to be single word, case it as 'Database' or strip the first token entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#UpdateSecurityParameter(SystemSecurityUtil.SecurityParameter)" Kind="Method" Static="True" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="330">'SystemSecurityDAC.UpdateSecurityParameter(SecurityParameter)' rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Issue>
+            </Message>
+            <Message TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="307">The query string passed to 'SqlCommand.CommandText.set(string)' in 'SystemSecurityDAC.UpdateSecurityParameter(SecurityParameter)' could contain the following variables 'new string[37][1]', 'new string[37][3]', '...[13]', '...[15]', '...[17]', 'securityParameter.WorkingHourFrom', 'securityParameter.WorkingHourTo', 'securityParameter.WorkingHourToSat', 'securityParameter.UpdateUserId', '...[33]', 'command.ExecuteScalar()'. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Issue>
+            </Message>
+            <Message Id="System.Byte.ToString" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="307">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.UpdateSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="307">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.UpdateSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="307">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.UpdateSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="307">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.UpdateSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="307">Because the behavior of 'byte.ToString()' could vary based on the current user's locale settings, replace this call in 'SystemSecurityDAC.UpdateSecurityParameter(SecurityParameter)' with a call to 'byte.ToString(IFormatProvider)'. If the result of 'byte.ToString(IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="0" TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="DependsOnFix">
+             <Issue Certainty="75" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="SystemSecurityDAC.cs" Line="307">In externally visible method 'SystemSecurityDAC.UpdateSecurityParameter(SecurityParameter)', validate parameter 'securityParameter' before using it.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+        <Type Name="WorkingTime" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#.ctor(System.String,System.String,System.String,System.Boolean,System.Boolean,System.Boolean)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message Id="Saterday" TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="MemberParameter" Certainty="75" Level="CriticalWarning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="WorkingTime.cs" Line="7">In method 'WorkingTime.WorkingTime(string, string, string, bool, bool, bool)', correct the spelling of 'Saterday' in parameter name 'workingTimeEndSaterday' or remove it entirely if it represents any sort of Hungarian notation.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#IsLogInAllowed()" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="CriticalError" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="WorkingTime.cs" Line="67">Modify 'WorkingTime.IsLogInAllowed()' to catch a more specific exception than 'Exception' or rethrow the exception.</Issue>
+            </Message>
+            <Message Id="ex" TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Warning" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="WorkingTime.cs" Line="67">'WorkingTime.IsLogInAllowed()' declares a variable, 'ex', of type 'Exception', which is never used or is only assigned to. Use this variable or remove it.</Issue>
+            </Message>
+            <Message Id="System.Convert.ToDateTime(System.String)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="WorkingTime.cs" Line="58">Because the behavior of 'Convert.ToDateTime(string)' could vary based on the current user's locale settings, replace this call in 'WorkingTime.IsLogInAllowed()' with a call to 'Convert.ToDateTime(string, IFormatProvider)'. If the result of 'Convert.ToDateTime(string, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternate" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="WorkingTime.cs" Line="59">Because the behavior of 'Convert.ToDateTime(string)' could vary based on the current user's locale settings, replace this call in 'WorkingTime.IsLogInAllowed()' with a call to 'Convert.ToDateTime(string, IFormatProvider)'. If the result of 'Convert.ToDateTime(string, IFormatProvider)' will be based on input from the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="System.DateTime.ToString(System.String)" TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="NonBreaking">
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="WorkingTime.cs" Line="58">Because the behavior of 'DateTime.ToString(string)' could vary based on the current user's locale settings, replace this call in 'WorkingTime.IsLogInAllowed()' with a call to 'DateTime.ToString(string, IFormatProvider)'. If the result of 'DateTime.ToString(string, IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+             <Issue Name="IFormatProviderAlternateString" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="WorkingTime.cs" Line="59">Because the behavior of 'DateTime.ToString(string)' could vary based on the current user's locale settings, replace this call in 'WorkingTime.IsLogInAllowed()' with a call to 'DateTime.ToString(string, IFormatProvider)'. If the result of 'DateTime.ToString(string, IFormatProvider)' will be displayed to the user, specify 'CultureInfo.CurrentCulture' as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify 'CultureInfo.InvariantCulture'.</Issue>
+            </Message>
+            <Message Id="LogIn" TypeName="UsePreferredTerms" Category="Microsoft.Naming" CheckId="CA1726" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Name="Member" Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="WorkingTime.cs" Line="36">Replace the term 'LogIn' in member name 'WorkingTime.IsLogInAllowed()' with the preferred alternate 'LogOn'.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#ValidationErrors" Kind="Property" Static="False" Accessibility="Public" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002" Status="Active" Created="2022-04-04 08:03:44Z" FixCategory="Breaking">
+             <Issue Certainty="95" Level="Error" Path="D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util" File="WorkingTime.cs" Line="32">Change 'List&lt;string&gt;' in 'WorkingTime.ValidationErrors' to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AssembliesShouldHaveValidStrongNames" Category="Microsoft.Design" CheckId="CA2210">
+   <Name>Assemblies should have valid strong names</Name>
+   <Description>Either the assembly has no strong name, an invalid one, or the strong name is valid only because of the computer configuration. The assembly should not be deployed in this state. The most common causes of this are: 1) The assembly's contents were modified after it was signed. 2) The signing process failed. 3) The assembly was delay-signed. 4) A registry key existed that allowed the check to pass (where it would not have otherwise).</Description>
+   <Resolution Name="NoStrongName">Sign {0} with a strong name key.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182127.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>Avoid uncalled private code</Name>
+   <Description>There is uncalled code that is not externally visible and is not a known runtime entry point. If this violation fires in error, please send a problem report to the Visual Studio Code Analysis team.</Description>
+   <Resolution Name="Default">{0} appears to have no upstream public or protected callers.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="CompoundWordsShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1702">
+   <Name>Compound words should be cased correctly</Name>
+   <Description>Avoid creating compound words from terms which exist in the dictionary as discrete terms. Do not create a compound word such as 'StopWatch' or 'PopUp'. These terms are recognized in the dictionary and should be cased as 'Stopwatch' and 'Popup'.</Description>
+   <Resolution Name="MemberParameterShouldBeDiscreteTerm">In member {0}, the compound word '{1}' in parameter name {2} exists as a discrete term. If your usage is intended to be single word, case it as '{3}' or strip the first token entirely if it represents any sort of Hungarian notation.</Resolution>
+   <Resolution Name="MemberShouldBeDiscreteTerm">The compound word '{0}' in member name {1} exists as a discrete term. If your usage is intended to be single word, case it as '{2}' or strip the first token entirely if it represents any sort of Hungarian notation.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb264474.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="80">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="Dispose objects before losing scope" Category="Microsoft.Reliability" CheckId="CA2000">
+   <Name>Dispose objects before losing scope</Name>
+   <Description>If a disposable object is not explicitly disposed before all references to it are out of scope, the object will be disposed at some indeterminate time when the garbage collector runs the finalizer of the object. Because an exceptional event might occur that will prevent the finalizer of the object from running, the object should be explicitly disposed instead.</Description>
+   <Resolution Name="NonExceptionEdge">In method {0}, call System.IDisposable.Dispose on object {1} before all references to it are out of scope.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182289.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotCatchGeneralExceptionTypes" Category="Microsoft.Design" CheckId="CA1031">
+   <Name>Do not catch general exception types</Name>
+   <Description>You should not catch Exception or SystemException. Catching generic exception types can hide run-time problems from the library user, and can complicate debugging. You should catch only those exceptions that you can handle gracefully.</Description>
+   <Resolution Name="Default">Modify {0} to catch a more specific exception than {1} or rethrow the exception.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182137.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="DoNotExposeGenericLists" Category="Microsoft.Design" CheckId="CA1002">
+   <Name>Do not expose generic lists</Name>
+   <Description>Do not expose List&lt;T&gt; in object models. Use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt; instead. List&lt;T&gt; is meant to be used from implementation, not in object model API. List&lt;T&gt; is optimized for performance at the cost of long term versioning. For example, if you return List&lt;T&gt; to the client code, you will not ever be able to receive notifications when client code modifies the collection.</Description>
+   <Resolution Name="Default">Change {0} in {1} to use Collection&lt;T&gt;, ReadOnlyCollection&lt;T&gt; or KeyedCollection&lt;K,V&gt;</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182142.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldBeCasedCorrectly" Category="Microsoft.Naming" CheckId="CA1709">
+   <Name>Identifiers should be cased correctly</Name>
+   <Description>Type, namespace, and member identifiers are Pascal-cased. Parameter identifiers are camel-cased. Two letter acronyms within these identifiers should be upper-cased, for example, use System.IO instead of System.Io. Acronyms of three or more letters should be Pascal-cased, for example, use System.Xml instead of System.XML. The pascal-casing convention capitalizes the first letter of each word, as in BackColor. The camel-casing convention formats the first letter of the first word in lowercase and capitalizes the first letter of all subsequent words, as in backgroundColor. Although it may be common practice for some two letter acronyms to not be fully capitalized, violations of this rule should not be excluded for this reason. For example, 'DbConnection', is common but incorrect; use DBConnection. A violation of this rule might be required for compatibility with existing, non-managed symbol schemes. In general, however, these symbols should not be visible outside the assembly that uses them.</Description>
+   <Resolution Name="MemberParameter">In member {0}, correct the casing of '{1}' in parameter name {2} by changing it to '{3}'.</Resolution>
+   <Resolution Name="Type">Correct the casing of '{0}' in type name {1} by changing it to '{2}'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182240.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="85">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="IdentifiersShouldBeSpelledCorrectly" Category="Microsoft.Naming" CheckId="CA1704">
+   <Name>Identifiers should be spelled correctly</Name>
+   <Description>The individual words that make up an identifier should not be abbreviated and should be spelled correctly. If this rule generates a false positive on a term that should be recognized, add the word to the FxCop custom dictionary.</Description>
+   <Resolution Name="Assembly">Correct the spelling of '{0}' in assembly name {1}.</Resolution>
+   <Resolution Name="Member">Correct the spelling of '{0}' in member name {1} or remove it entirely if it represents any sort of Hungarian notation.</Resolution>
+   <Resolution Name="MemberParameter">In method {0}, correct the spelling of '{1}' in parameter name {2} or remove it entirely if it represents any sort of Hungarian notation.</Resolution>
+   <Resolution Name="Namespace">Correct the spelling of '{0}' in namespace name '{1}'.</Resolution>
+   <Resolution Name="Type">Correct the spelling of '{0}' in type name {1}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb264492.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">CriticalWarning</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkAssembliesWithClsCompliant" Category="Microsoft.Design" CheckId="CA1014">
+   <Name>Mark assemblies with CLSCompliantAttribute</Name>
+   <Description>Assemblies should explicitly state their CLS compliance using the CLSCompliant attribute. An assembly without this attribute is not CLS-compliant. Assemblies, modules, and types can be CLS-compliant even if some parts of the assembly, module, or type are not CLS-compliant. The following rules apply: 1) If the element is marked CLSCompliant, any noncompliant members must have the CLSCompliant attribute present with its argument set to false. 2) A comparable CLS-compliant alternative member must be supplied for each member that is not CLS-compliant.</Description>
+   <Resolution Name="Default">Mark {0} with CLSCompliant(true) because it exposes externally visible types.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182156.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="MarkMembersAsStatic" Category="Microsoft.Performance" CheckId="CA1822">
+   <Name>Mark members as static</Name>
+   <Description>Methods which do not access instance data or call instance methods can be marked as static (Shared in Visual Basic). After doing so, the compiler will emit non-virtual call sites to these members which will prevent a check at runtime for each call that ensures the current object pointer is non-null. This can result in a measurable performance gain for performance-sensitive code. In some cases, the failure to access the current object instance represents a correctness issue.</Description>
+   <Resolution Name="Default">The 'this' parameter (or 'Me' in Visual Basic) of {0} is never used. Mark the member as static (or Shared in Visual Basic) or use 'this'/'Me' in the method body or at least one property accessor, if appropriate.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms245046.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="RemoveUnusedLocals" Category="Microsoft.Performance" CheckId="CA1804">
+   <Name>Remove unused locals</Name>
+   <Description>Remove locals that are not used or are only assigned to in method implementations.</Description>
+   <Resolution Name="Default">{0} declares a variable, {1}, of type {2}, which is never used or is only assigned to. Use this variable or remove it.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182278.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="RethrowToPreserveStackDetails" Category="Microsoft.Usage" CheckId="CA2200">
+   <Name>Rethrow to preserve stack details</Name>
+   <Description>Use the IL rethrow instruction to preserve original stack details when re-raising a caught exception.</Description>
+   <Resolution Name="Default">{0} rethrows a caught exception and specifies it explicitly as an argument. Use 'throw' without an argument instead, in order to preserve the stack location where the exception was initially raised.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182363.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="Review SQL queries for security vulnerabilities" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Review SQL queries for security vulnerabilities</Name>
+   <Description>A SQL command string built from user input is vulnerable to SQL injection attacks. Microsoft SQL Server and other database servers support stored procedures and parameterized SQL queries, which reduce the risk of injection attacks.</Description>
+   <Resolution Name="WithNonLiterals">The query string passed to {0} in {1} could contain the following variables {2}. If any of these variables could come from user input, consider using a stored procedure or a parameterized SQL query instead of building the query with string concatenations.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="ReviewUnusedParameters" Category="Microsoft.Usage" CheckId="CA1801">
+   <Name>Review unused parameters</Name>
+   <Description>Review parameters in non-virtual methods that are not used in the method body to ensure no correctness exists around failure to access them. Unused parameters incur maintenance and performance costs. Sometimes a violation of this rule can point to an implementation bug in the method (i.e. the parameter should actually have been used in the method body). Exclude warnings of this rule if the parameter has to exist because of backward compatibility.</Description>
+   <Resolution Name="Default">Parameter {0} of {1} is never used. Remove the parameter or use it in the method body.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182268.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="usagerules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="SpecifyIFormatProvider" Category="Microsoft.Globalization" CheckId="CA1305">
+   <Name>Specify IFormatProvider</Name>
+   <Description>If an overload exists that takes an IFormatProvider argument, it should always be called in favor of an overload that does not. Some methods in the runtime convert a value to or from a string representation and take a string parameter that contains one or more characters, called format specifiers, which indicate how the value is to be converted. If the meaning of the format specifier varies by culture, a formatting object supplies the actual characters used in the string representation. In scenarios where sorting and comparison behavior should never change between cultures, specify CultureInfo.InvariantCulture, otherwise, specify CultureInfo.CurrentCulture.</Description>
+   <Resolution Name="IFormatProviderAlternate">Because the behavior of {0} could vary based on the current user's locale settings, replace this call in {1} with a call to {2}. If the result of {2} will be based on input from the user, specify {3} as the 'IFormatProvider' parameter. Otherwise, if the result will based on input stored and accessed by software, such as when it is loaded from disk or from a database, specify {4}.</Resolution>
+   <Resolution Name="IFormatProviderAlternateString">Because the behavior of {0} could vary based on the current user's locale settings, replace this call in {1} with a call to {2}. If the result of {2} will be displayed to the user, specify {3} as the 'IFormatProvider' parameter. Otherwise, if the result will be stored and accessed by software, such as when it is persisted to disk or to a database, specify {4}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182190.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="globalizationrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="TestForEmptyStringsUsingStringLength" Category="Microsoft.Performance" CheckId="CA1820">
+   <Name>Test for empty strings using string length</Name>
+   <Description>To test for empty strings, check if String.Length is equal to zero. Constructs such as "".Equals(someString) and String.Empty.Equals(someString) are less efficient than testing the string length. Replace these with checks for someString.Length == 0.</Description>
+   <Resolution Name="IsNullOrEmpty">Replace the call to {0} in {1} with a call to 'String.IsNullOrEmpty'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182279.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="UsePreferredTerms" Category="Microsoft.Naming" CheckId="CA1726">
+   <Name>Use preferred terms</Name>
+   <Description>Use preferred terms over deprecated alternates.</Description>
+   <Resolution Name="Member">Replace the term '{0}' in member name {1} with the preferred alternate '{2}'.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182258.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="namingrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="UsePropertiesWhereAppropriate" Category="Microsoft.Design" CheckId="CA1024">
+   <Name>Use properties where appropriate</Name>
+   <Description>Properties should be used instead of Get/Set methods in most situations. Methods are preferable to properties in the following situations: the operation is a conversion, is expensive or has an observable side-effect; the order of execution is important; calling the member twice in succession creates different results; a member is static but returns a mutable value; or the member returns an array.</Description>
+   <Resolution Name="Default">Change {0} to a property if appropriate.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182181.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="Validate arguments of public methods" Category="Microsoft.Design" CheckId="CA1062">
+   <Name>Validate arguments of public methods</Name>
+   <Description>All reference arguments passed to externally visible methods should be checked against null (Nothing in VB). If appropriate, throw a System.ArgumentNullException when the argument is null.</Description>
+   <Resolution Name="Default">In externally visible method {0}, validate parameter '{1}' before using it.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182182.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="16.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

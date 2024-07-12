@@ -1,0 +1,5 @@
+D:\Users\BirukZ\Desktop\GyM\GYM\GymCommon\bin\Debug\BrandCommon.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\GymCommon\bin\Debug\BrandCommon.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\GymCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\BirukZ\Desktop\GyM\GYM\GymCommon\obj\Debug\BrandCommon.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\GymCommon\obj\Debug\BrandCommon.pdb

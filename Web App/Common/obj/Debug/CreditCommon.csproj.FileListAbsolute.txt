@@ -1,0 +1,14 @@
+E:\Credit Association\GYM\CreditCommon\bin\Debug\BrandCommon.dll
+E:\Credit Association\GYM\CreditCommon\bin\Debug\BrandCommon.pdb
+E:\Credit Association\GYM\CreditCommon\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\GYM\CreditCommon\obj\Debug\BrandCommon.dll
+E:\Credit Association\GYM\CreditCommon\obj\Debug\BrandCommon.pdb
+E:\Credit Association\CreditSaving\CreditCommon\bin\Debug\BrandCommon.dll
+E:\Credit Association\CreditSaving\CreditCommon\bin\Debug\BrandCommon.pdb
+E:\Credit Association\CreditSaving\CreditCommon\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\CreditSaving\CreditCommon\obj\Debug\BrandCommon.dll
+E:\Credit Association\CreditSaving\CreditCommon\obj\Debug\BrandCommon.pdb
+D:\New folder (7)\CreditSaving\CreditCommon\bin\Debug\BrandCommon.dll
+D:\New folder (7)\CreditSaving\CreditCommon\bin\Debug\BrandCommon.pdb
+D:\New folder (7)\CreditSaving\CreditCommon\obj\Debug\BrandCommon.dll
+D:\New folder (7)\CreditSaving\CreditCommon\obj\Debug\BrandCommon.pdb

@@ -1,0 +1,69 @@
+D:\Coding\Exercise\Version 1\Web App\DAL\bin\Debug\DAL.dll.config
+D:\Coding\Exercise\Version 1\Web App\DAL\bin\Debug\DAL.dll
+D:\Coding\Exercise\Version 1\Web App\DAL\bin\Debug\DAL.pdb
+D:\Coding\Exercise\Version 1\Web App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Coding\Exercise\Version 1\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Coding\Exercise\Version 1\Web App\DAL\obj\Debug\DAL.dll
+D:\Coding\Exercise\Version 1\Web App\DAL\obj\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\DAL\obj\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\DAL\obj\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\DAL\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\DAL\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\DAL\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\DAL\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\DAL\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\DAL\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\DAL\obj\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\DAL\obj\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\DAL\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\DAL\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\DAL\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\DAL\obj\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\DAL\obj\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\DAL\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\DAL\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\DAL\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\DAL\obj\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\DAL\obj\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\DAL\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 1\Web App\DAL\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\DAL\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\DAL\obj\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\DAL\obj\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 2\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 2\Web App\DAL\obj\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\DAL\obj\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\DAL\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 2\Web App\DAL\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\DAL\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\DAL\obj\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\DAL\obj\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\DAL\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\DAL\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\DAL\bin\Debug\DAL.pdb
+E:\Coding\Three Tier Basic\Web App\DAL\bin\Debug\DAL.dll.config
+E:\Coding\Three Tier Basic\Web App\DAL\bin\Debug\DAL.dll
+E:\Coding\Three Tier Basic\Web App\DAL\bin\Debug\DAL.pdb
+E:\Coding\Three Tier Basic\Web App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\Coding\Three Tier Basic\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\Coding\Three Tier Basic\Web App\DAL\obj\Debug\DAL.dll
+E:\Coding\Three Tier Basic\Web App\DAL\obj\Debug\DAL.pdb
+D:\Project_backup\Web App\Web App\DAL\bin\Debug\DAL.dll.config
+D:\Project_backup\Web App\Web App\DAL\bin\Debug\DAL.dll
+D:\Project_backup\Web App\Web App\DAL\bin\Debug\DAL.pdb
+D:\Project_backup\Web App\Web App\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Project_backup\Web App\Web App\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project_backup\Web App\Web App\DAL\obj\Debug\DAL.dll
+D:\Project_backup\Web App\Web App\DAL\obj\Debug\DAL.pdb

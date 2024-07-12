@@ -1,0 +1,91 @@
+D:\MIS Project\MIS\MISBLL\bin\Debug\MISBLL.dll
+D:\MIS Project\MIS\MISBLL\bin\Debug\MISBLL.pdb
+D:\MIS Project\MIS\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\MIS Project\MIS\MISBLL\obj\Debug\MISBLL.dll
+D:\MIS Project\MIS\MISBLL\obj\Debug\MISBLL.pdb
+D:\MIS Project\MIS\MISBLL\bin\Debug\MISBLL.dll.config
+D:\MIS Project\MIS\MISBLL\bin\Debug\MISDAL.dll
+D:\MIS Project\MIS\MISBLL\bin\Debug\MISDAL.pdb
+C:\MIS Project\MIS\MISBLL\bin\Debug\MISBLL.dll.config
+C:\MIS Project\MIS\MISBLL\bin\Debug\MISBLL.dll
+C:\MIS Project\MIS\MISBLL\bin\Debug\MISBLL.pdb
+C:\MIS Project\MIS\MISBLL\bin\Debug\MISDAL.dll
+C:\MIS Project\MIS\MISBLL\bin\Debug\MISDAL.pdb
+C:\MIS Project\MIS\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\MIS Project\MIS\MISBLL\obj\Debug\MISBLL.dll
+C:\MIS Project\MIS\MISBLL\obj\Debug\MISBLL.pdb
+C:\MIS\MIS\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\MIS\MIS\MISBLL\obj\Debug\MISBLL.dll
+C:\MIS\MIS\MISBLL\obj\Debug\MISBLL.pdb
+C:\MIS\MIS\MISBLL\bin\Debug\MISBLL.dll.config
+C:\MIS\MIS\MISBLL\bin\Debug\MISBLL.dll
+C:\MIS\MIS\MISBLL\bin\Debug\MISBLL.pdb
+C:\MIS\MIS\MISBLL\bin\Debug\MISCommon.dll
+C:\MIS\MIS\MISBLL\bin\Debug\MISDAL.dll
+C:\MIS\MIS\MISBLL\bin\Debug\MISDAL.pdb
+C:\MIS\MIS\MISBLL\bin\Debug\MISCommon.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\bin\Debug\MISBLL.dll.config
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\bin\Debug\MISBLL.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\bin\Debug\MISBLL.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\bin\Debug\MISCommon.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\bin\Debug\MISDAL.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\bin\Debug\MISDAL.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\bin\Debug\MISCommon.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\obj\Debug\MISBLL.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\MISBLL\obj\Debug\MISBLL.pdb
+C:\MIS Project\MISKilikil\MISBLL\bin\Debug\MISBLL.dll.config
+C:\MIS Project\MISKilikil\MISBLL\bin\Debug\MISBLL.dll
+C:\MIS Project\MISKilikil\MISBLL\bin\Debug\MISBLL.pdb
+C:\MIS Project\MISKilikil\MISBLL\bin\Debug\MISCommon.dll
+C:\MIS Project\MISKilikil\MISBLL\bin\Debug\MISDAL.dll
+C:\MIS Project\MISKilikil\MISBLL\bin\Debug\MISDAL.pdb
+C:\MIS Project\MISKilikil\MISBLL\bin\Debug\MISCommon.pdb
+C:\MIS Project\MISKilikil\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\MIS Project\MISKilikil\MISBLL\obj\Debug\MISBLL.dll
+C:\MIS Project\MISKilikil\MISBLL\obj\Debug\MISBLL.pdb
+D:\MIS Project\MIS\MISBLL\bin\Debug\MISCommon.dll
+D:\MIS Project\MIS\MISBLL\bin\Debug\MISCommon.pdb
+D:\Books\MIS\MISBLL\bin\Debug\MISBLL.dll.config
+D:\Books\MIS\MISBLL\bin\Debug\MISBLL.dll
+D:\Books\MIS\MISBLL\bin\Debug\MISBLL.pdb
+D:\Books\MIS\MISBLL\bin\Debug\MISCommon.dll
+D:\Books\MIS\MISBLL\bin\Debug\MISDAL.dll
+D:\Books\MIS\MISBLL\bin\Debug\MISDAL.pdb
+D:\Books\MIS\MISBLL\bin\Debug\MISCommon.pdb
+D:\Books\MIS\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Books\MIS\MISBLL\obj\Debug\MISBLL.dll
+D:\Books\MIS\MISBLL\obj\Debug\MISBLL.pdb
+G:\MISDawit\MIS\MISBLL\bin\Debug\MISBLL.dll.config
+G:\MISDawit\MIS\MISBLL\bin\Debug\MISBLL.dll
+G:\MISDawit\MIS\MISBLL\bin\Debug\MISBLL.pdb
+G:\MISDawit\MIS\MISBLL\bin\Debug\MISCommon.dll
+G:\MISDawit\MIS\MISBLL\bin\Debug\MISDAL.dll
+G:\MISDawit\MIS\MISBLL\bin\Debug\MISDAL.pdb
+G:\MISDawit\MIS\MISBLL\bin\Debug\MISCommon.pdb
+G:\MISDawit\MIS\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+G:\MISDawit\MIS\MISBLL\obj\Debug\MISBLL.dll
+G:\MISDawit\MIS\MISBLL\obj\Debug\MISBLL.pdb
+C:\MIS Project\MIS\MISBLL\bin\Debug\MISCommon.dll
+C:\MIS Project\MIS\MISBLL\bin\Debug\MISCommon.pdb
+C:\MIS\MISBLL\bin\Debug\MISBLL.dll.config
+C:\MIS\MISBLL\bin\Debug\MISBLL.dll
+C:\MIS\MISBLL\bin\Debug\MISBLL.pdb
+C:\MIS\MISBLL\bin\Debug\MISCommon.dll
+C:\MIS\MISBLL\bin\Debug\MISDAL.dll
+C:\MIS\MISBLL\bin\Debug\MISDAL.pdb
+C:\MIS\MISBLL\bin\Debug\MISCommon.pdb
+C:\MIS\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\MIS\MISBLL\obj\Debug\MISBLL.dll
+C:\MIS\MISBLL\obj\Debug\MISBLL.pdb
+D:\Yal\Test\MISBLL\bin\Debug\MISBLL.dll.config
+D:\Yal\Test\MISBLL\bin\Debug\MISBLL.dll
+D:\Yal\Test\MISBLL\bin\Debug\MISBLL.pdb
+D:\Yal\Test\MISBLL\bin\Debug\MISDAL.dll
+D:\Yal\Test\MISBLL\bin\Debug\MISDAL.pdb
+D:\Yal\Test\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Yal\Test\MISBLL\obj\Debug\MISBLL.dll
+D:\Yal\Test\MISBLL\obj\Debug\MISBLL.pdb
+C:\Documents and Settings\sb\Desktop\Yal\Test\MISBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\sb\Desktop\Yal\Test\MISBLL\obj\Debug\MISBLL.dll
+C:\Documents and Settings\sb\Desktop\Yal\Test\MISBLL\obj\Debug\MISBLL.pdb

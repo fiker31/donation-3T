@@ -1,0 +1,12 @@
+D:\Users\BirukZ\Desktop\GyM\GYM\GYMBLL\bin\Debug\GymBLL.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\GYMBLL\bin\Debug\GymBLL.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\GYMBLL\bin\Debug\GymDAL.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\GYMBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\GYMBLL\bin\Debug\GymDAL.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\GYMBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\GYMBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\BirukZ\Desktop\GyM\GYM\GYMBLL\obj\Debug\GymBLL.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\GYMBLL\obj\Debug\GymBLL.pdb
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\GYMBLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\GYMBLL\obj\Debug\GymBLL.dll
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\GYMBLL\obj\Debug\GymBLL.pdb

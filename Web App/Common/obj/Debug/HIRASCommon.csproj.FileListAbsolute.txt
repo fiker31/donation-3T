@@ -1,0 +1,5 @@
+D:\HIRAS\HIRASCommon\bin\Debug\BrandCommon.dll
+D:\HIRAS\HIRASCommon\bin\Debug\BrandCommon.pdb
+D:\HIRAS\HIRASCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\HIRAS\HIRASCommon\obj\Debug\BrandCommon.dll
+D:\HIRAS\HIRASCommon\obj\Debug\BrandCommon.pdb

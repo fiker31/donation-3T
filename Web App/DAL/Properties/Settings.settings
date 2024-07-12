@@ -1,0 +1,54 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DAL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-IFJUMGO\SQLEXPRESS;Initial Catalog=CBEProjectManagement;User ID=sa&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-IFJUMGO\SQLEXPRESS;Initial Catalog=CBEProjectManagement;User ID=sa</Value>
+    </Setting>
+    <Setting Name="CBEProjectManagementConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-IFJUMGO\SQLEXPRESS;Initial Catalog=CBEProjectManagement;Integrated Security=True;User ID=sa&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-IFJUMGO\SQLEXPRESS;Initial Catalog=CBEProjectManagement;Integrated Security=True;User ID=sa</Value>
+    </Setting>
+    <Setting Name="CBEProjectManagementConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=GOOGLE\SQLEXPRESS;Initial Catalog=CBEProjectManagement;User ID=User;Password=123456&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=GOOGLE\SQLEXPRESS;Initial Catalog=CBEProjectManagement;User ID=User;Password=123456</Value>
+    </Setting>
+    <Setting Name="CBEProjectManagementConnectionString2" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=GOOGLE;Initial Catalog=CBEProjectManagement;User ID=User&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=GOOGLE;Initial Catalog=CBEProjectManagement;User ID=User</Value>
+    </Setting>
+    <Setting Name="DigitalTicketsConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-4GTA5H9;Initial Catalog=DigitalTickets;User ID=User&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-4GTA5H9;Initial Catalog=DigitalTickets;User ID=User</Value>
+    </Setting>
+    <Setting Name="DigitalTicketsConnectionString1" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=DESKTOP-4GTA5H9;Initial Catalog=DigitalTickets;User ID=User;Password=123456&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=DESKTOP-4GTA5H9;Initial Catalog=DigitalTickets;User ID=User;Password=123456</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

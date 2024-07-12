@@ -1,0 +1,18 @@
+E:\Credit Association\GYM\CreditDAL\bin\Debug\GymDAL.dll.config
+E:\Credit Association\GYM\CreditDAL\bin\Debug\GymDAL.dll
+E:\Credit Association\GYM\CreditDAL\bin\Debug\GymDAL.pdb
+E:\Credit Association\GYM\CreditDAL\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\Credit Association\GYM\CreditDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\GYM\CreditDAL\obj\Debug\GymDAL.dll
+E:\Credit Association\GYM\CreditDAL\obj\Debug\GymDAL.pdb
+E:\Credit Association\CreditSaving\CreditDAL\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\CreditSaving\CreditDAL\bin\Debug\CreditDAL.dll.config
+E:\Credit Association\CreditSaving\CreditDAL\bin\Debug\CreditDAL.dll
+E:\Credit Association\CreditSaving\CreditDAL\bin\Debug\CreditDAL.pdb
+E:\Credit Association\CreditSaving\CreditDAL\obj\Debug\CreditDAL.dll
+E:\Credit Association\CreditSaving\CreditDAL\obj\Debug\CreditDAL.pdb
+D:\New folder (7)\CreditSaving\CreditDAL\bin\Debug\CreditDAL.dll.config
+D:\New folder (7)\CreditSaving\CreditDAL\bin\Debug\CreditDAL.dll
+D:\New folder (7)\CreditSaving\CreditDAL\bin\Debug\CreditDAL.pdb
+D:\New folder (7)\CreditSaving\CreditDAL\obj\Debug\CreditDAL.dll
+D:\New folder (7)\CreditSaving\CreditDAL\obj\Debug\CreditDAL.pdb

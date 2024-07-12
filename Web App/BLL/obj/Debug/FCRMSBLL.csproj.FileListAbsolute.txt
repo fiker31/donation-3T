@@ -1,0 +1,55 @@
+D:\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll.config
+D:\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll
+D:\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.pdb
+D:\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.dll
+D:\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.pdb
+D:\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.dll
+D:\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.pdb
+C:\Documents and Settings\Administrator\Desktop\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.dll
+C:\Documents and Settings\Administrator\Desktop\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.pdb
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll.config
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.pdb
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.dll
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.pdb
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.dll
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.pdb
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll.config
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.pdb
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.dll
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.pdb
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.dll
+D:\Project\FCRMS Project\FCRMS Project\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.pdb
+P:\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll.config
+P:\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll
+P:\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.pdb
+P:\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.dll
+P:\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.pdb
+P:\FCRMS\FCRMSBLL\obj\Debug\ResolveAssemblyReference.cache
+P:\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.dll
+P:\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.pdb
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll.config
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.pdb
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.dll
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.pdb
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.dll
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.pdb
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\SystemSecurityUtil.dll
+D:\Project\FCRMS Project\FCRMS\FCRMSBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll.config
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.dll
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\bin\Debug\FCRMSBLL.pdb
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.dll
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\bin\Debug\SystemSecurityUtil.dll
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\bin\Debug\SystemSecurityUtil.pdb
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\bin\Debug\FCRMSDAL.pdb
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\obj\Debug\ResolveAssemblyReference.cache
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.dll
+D:\FINAL FCRMS\FCRMS\FCRMSBLL\obj\Debug\FCRMSBLL.pdb

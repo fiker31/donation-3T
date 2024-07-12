@@ -1,0 +1,903 @@
+D:\MIS Project\MIS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+D:\MIS Project\MIS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\MIS Project\MIS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\MIS Project\MIS\FrameworkControls\bin\Debug\MISBLL.dll
+D:\MIS Project\MIS\FrameworkControls\bin\Debug\MISDAL.dll
+D:\MIS Project\MIS\FrameworkControls\bin\Debug\MISBLL.pdb
+D:\MIS Project\MIS\FrameworkControls\bin\Debug\MISDAL.pdb
+D:\MIS Project\MIS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\MIS Project\MIS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+C:\MIS Project\MIS\FrameworkControls\bin\Debug\FrameworkControls.dll
+C:\MIS Project\MIS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+C:\MIS Project\MIS\FrameworkControls\bin\Debug\MISBLL.dll
+C:\MIS Project\MIS\FrameworkControls\bin\Debug\MISDAL.dll
+C:\MIS Project\MIS\FrameworkControls\bin\Debug\MISBLL.pdb
+C:\MIS Project\MIS\FrameworkControls\bin\Debug\MISDAL.pdb
+C:\MIS Project\MIS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+C:\MIS Project\MIS\FrameworkControls\obj\Debug\FrameworkControls.dll
+C:\MIS Project\MIS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\FrameworkControls.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\FrameworkControls.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\MISBLL.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\MISDAL.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\MISCommon.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\MISDAL.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\MISBLL.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\MISCommon.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\obj\Debug\FrameworkControls.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\obj\Debug\FrameworkControls.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\AjaxControlToolkit.pdb
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Documents and Settings\Administrator\Desktop\MISKilikil\FrameworkControls\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\FrameworkControls.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\FrameworkControls.pdb
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\MISBLL.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\MISCommon.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\MISDAL.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\MISDAL.pdb
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\AjaxControlToolkit.pdb
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\MISBLL.pdb
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\MISCommon.pdb
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\MIS Project\MISKilikil\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+C:\MIS Project\MISKilikil\FrameworkControls\obj\Debug\FrameworkControls.dll
+C:\MIS Project\MISKilikil\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\MIS Project\MIS\FrameworkControls\bin\Debug\MISCommon.dll
+D:\MIS Project\MIS\FrameworkControls\bin\Debug\MISCommon.pdb
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\FrameworkControls.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\MISBLL.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\MISCommon.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\MISDAL.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\MISDAL.pdb
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\AjaxControlToolkit.pdb
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\MISBLL.pdb
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\MISCommon.pdb
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\ru\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\pt\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\nl\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\ko\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\ja\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\it\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\hi\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\he\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\fr\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\es\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\de\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\cs\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\bin\Debug\ar\AjaxControlToolkit.resources.dll
+G:\MISDawit\MIS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+G:\MISDawit\MIS\FrameworkControls\obj\Debug\FrameworkControls.dll
+G:\MISDawit\MIS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+C:\MIS Project\MIS\FrameworkControls\bin\Debug\MISCommon.dll
+C:\MIS Project\MIS\FrameworkControls\bin\Debug\MISCommon.pdb
+C:\MIS\FrameworkControls\bin\Debug\FrameworkControls.dll
+C:\MIS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+C:\MIS\FrameworkControls\bin\Debug\MISBLL.dll
+C:\MIS\FrameworkControls\bin\Debug\MISCommon.dll
+C:\MIS\FrameworkControls\bin\Debug\MISDAL.dll
+C:\MIS\FrameworkControls\bin\Debug\MISBLL.pdb
+C:\MIS\FrameworkControls\bin\Debug\MISDAL.pdb
+C:\MIS\FrameworkControls\bin\Debug\MISCommon.pdb
+C:\MIS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+C:\MIS\FrameworkControls\obj\Debug\FrameworkControls.dll
+C:\MIS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Yal\Test\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Yal\Test\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Yal\Test\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Yal\Test\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Yal\Test\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Yal\Test\FrameworkControls\bin\Debug\MISBLL.dll
+D:\Yal\Test\FrameworkControls\bin\Debug\MISDAL.dll
+D:\Yal\Test\FrameworkControls\bin\Debug\MISDAL.pdb
+D:\Yal\Test\FrameworkControls\bin\Debug\MISBLL.pdb
+D:\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+D:\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.dll
+D:\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.dll
+D:\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.pdb
+D:\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.pdb
+C:\Documents and Settings\Administrator\Desktop\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.dll
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.dll
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.pdb
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.pdb
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Documents and Settings\selam\Desktop\b\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+P:\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+P:\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+P:\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.dll
+P:\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.dll
+P:\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.pdb
+P:\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.pdb
+P:\FCRMS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+P:\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+P:\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.dll
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.dll
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.pdb
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.pdb
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Project\FCRMS Project\FCRMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\FINAL FCRMS\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\FINAL FCRMS\FCRMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\FINAL FCRMS\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.dll
+D:\FINAL FCRMS\FCRMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\FINAL FCRMS\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.dll
+D:\FINAL FCRMS\FCRMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\FINAL FCRMS\FCRMS\FrameworkControls\bin\Debug\FCRMSDAL.pdb
+D:\FINAL FCRMS\FCRMS\FrameworkControls\bin\Debug\FCRMSBLL.pdb
+D:\FINAL FCRMS\FCRMS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+D:\FINAL FCRMS\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\FINAL FCRMS\FCRMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\HIRAS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\HIRAS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\HIRAS\FrameworkControls\bin\Debug\HIRASBLL.dll
+D:\HIRAS\FrameworkControls\bin\Debug\HIRASDAL.dll
+D:\HIRAS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\HIRAS\FrameworkControls\bin\Debug\HIRASDAL.pdb
+D:\HIRAS\FrameworkControls\bin\Debug\HIRASBLL.pdb
+D:\HIRAS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\HIRAS\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+D:\HIRAS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\HIRAS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\bin\Debug\GymBLL.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\bin\Debug\GymDAL.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\bin\Debug\GymDAL.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\bin\Debug\GymBLL.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\bin\Debug\GymBLL.dll
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\bin\Debug\GymDAL.dll
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\bin\Debug\GymBLL.pdb
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\bin\Debug\GymDAL.pdb
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Credit Association\GYM\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Credit Association\GYM\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Credit Association\GYM\FrameworkControls\bin\Debug\GymBLL.dll
+E:\Credit Association\GYM\FrameworkControls\bin\Debug\GymDAL.dll
+E:\Credit Association\GYM\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Credit Association\GYM\FrameworkControls\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\Credit Association\GYM\FrameworkControls\bin\Debug\GymBLL.pdb
+E:\Credit Association\GYM\FrameworkControls\bin\Debug\GymDAL.pdb
+E:\Credit Association\GYM\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Credit Association\GYM\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\GYM\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Credit Association\GYM\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Credit Association\CreditSaving\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Credit Association\CreditSaving\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Credit Association\CreditSaving\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Credit Association\CreditSaving\FrameworkControls\bin\Debug\Microsoft.SqlServer.Replication.dll
+E:\Credit Association\CreditSaving\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Credit Association\CreditSaving\FrameworkControls\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\CreditSaving\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Credit Association\CreditSaving\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Credit Association\CreditSaving\FrameworkControls\bin\Debug\CreditBLL.dll
+E:\Credit Association\CreditSaving\FrameworkControls\bin\Debug\CreditDAL.dll
+E:\Credit Association\CreditSaving\FrameworkControls\bin\Debug\CreditBLL.pdb
+E:\Credit Association\CreditSaving\FrameworkControls\bin\Debug\CreditDAL.pdb
+D:\New folder (7)\CreditSaving\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\New folder (7)\CreditSaving\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\New folder (7)\CreditSaving\FrameworkControls\bin\Debug\CreditBLL.dll
+D:\New folder (7)\CreditSaving\FrameworkControls\bin\Debug\CreditDAL.dll
+D:\New folder (7)\CreditSaving\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\New folder (7)\CreditSaving\FrameworkControls\bin\Debug\CreditBLL.pdb
+D:\New folder (7)\CreditSaving\FrameworkControls\bin\Debug\CreditDAL.pdb
+D:\New folder (7)\CreditSaving\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\New folder (7)\CreditSaving\FrameworkControls\obj\Debug\FrameworkControls.csprojResolveAssemblyReference.cache
+D:\New folder (7)\CreditSaving\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\New folder (7)\CreditSaving\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Printing_Solution\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Printing_Solution\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Printing_Solution\FrameworkControls\bin\Debug\PrintBLL.dll
+D:\Printing_Solution\FrameworkControls\bin\Debug\PrintDAL.dll
+D:\Printing_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Printing_Solution\FrameworkControls\bin\Debug\PrintBLL.pdb
+D:\Printing_Solution\FrameworkControls\bin\Debug\PrintDAL.pdb
+D:\Printing_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Printing_Solution\FrameworkControls\obj\Debug\FrameworkControls.csprojResolveAssemblyReference.cache
+D:\Printing_Solution\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Printing_Solution\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\SC-Project\SC_Solution\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\SC-Project\SC_Solution\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\SC-Project\SC_Solution\FrameworkControls\bin\Debug\SMSBLL.dll
+D:\SC-Project\SC_Solution\FrameworkControls\bin\Debug\SMSDAL.dll
+D:\SC-Project\SC_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\SC-Project\SC_Solution\FrameworkControls\bin\Debug\SMSBLL.pdb
+D:\SC-Project\SC_Solution\FrameworkControls\bin\Debug\SMSDAL.pdb
+D:\SC-Project\SC_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\SC-Project\SC_Solution\FrameworkControls\obj\Debug\FrameworkControls.csprojResolveAssemblyReference.cache
+D:\SC-Project\SC_Solution\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\SC-Project\SC_Solution\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Foreign Currency\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.csprojResolveAssemblyReference.cache
+D:\Foreign Currency\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Foreign Currency\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.csprojResolveAssemblyReference.cache
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\FCRMS Final Application Code\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.csprojResolveAssemblyReference.cache
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.csprojResolveAssemblyReference.cache
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\FRM_Solution\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\FRM_Solution\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\FRM_Solution\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\FRM_Solution\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.csprojResolveAssemblyReference.cache
+D:\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\FRM_Solution\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\SDC\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\SDC\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\SDC\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\SDC\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\SDC\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\SDC\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\SDC\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\SDC\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\SDC\FrameworkControls\obj\Debug\FrameworkControls.csprojResolveAssemblyReference.cache
+D:\SDC\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\SDC\FrameworkControls\obj\Debug\FrameworkControls.pdb
+C:\Users\CBE\Desktop\SDC\FrameworkControls\bin\Debug\FrameworkControls.dll
+C:\Users\CBE\Desktop\SDC\FrameworkControls\bin\Debug\FrameworkControls.pdb
+C:\Users\CBE\Desktop\SDC\FrameworkControls\bin\Debug\FRMBLL.dll
+C:\Users\CBE\Desktop\SDC\FrameworkControls\bin\Debug\FRMDAL.dll
+C:\Users\CBE\Desktop\SDC\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+C:\Users\CBE\Desktop\SDC\FrameworkControls\bin\Debug\FRMBLL.pdb
+C:\Users\CBE\Desktop\SDC\FrameworkControls\bin\Debug\FRMDAL.pdb
+C:\Users\CBE\Desktop\SDC\FrameworkControls\bin\Debug\FRMDAL.dll.config
+C:\Users\CBE\Desktop\SDC\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+C:\Users\CBE\Desktop\SDC\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+C:\Users\CBE\Desktop\SDC\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+C:\Users\CBE\Desktop\SDC\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+C:\Users\CBE\Desktop\SDC\FrameworkControls\obj\Debug\FrameworkControls.dll
+C:\Users\CBE\Desktop\SDC\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\bin\Debug\FRMBLL.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\bin\Debug\FRMDAL.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\bin\Debug\FRMBLL.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\bin\Debug\FRMDAL.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\bin\Debug\FRMDAL.dll.config
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 2\Three Tier Framework + DB - Error Fixed on Jan 27, 2014\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\CBE\Credit Association\Version 4\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 6 Repayment from Excel\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 7 Correction with Bootstrap Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\CBE\Credit Association\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 8 Correction with Bootstrap\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating Repayment Reversal Error Checking\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating OnDemand Finished\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 1\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\CBE\Credit Association\Version 11\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 11 Home\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 13 Repayment with DevExpressGridView\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\CBE Credit\ASP.NET\DevExpress\Version 14\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 2\LMS\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\Foreclosure\Version 3 Multiple Collateral\Foreclosure\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Debug\FRMBLL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Debug\FRMDAL.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Debug\FRMBLL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Debug\FRMDAL.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Debug\FRMDAL.dll.config
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\Version 1\Project Management\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\bin\Debug\BLL.dll
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\bin\Debug\DAL.dll
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\bin\Debug\BLL.pdb
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\bin\Debug\DAL.pdb
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\Exercise\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 3\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\BLL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\DAL.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\BLL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\DAL.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 5\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 2\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 2 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\BLL.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\DAL.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\BLL.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\DAL.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Coding\Digital Ticketing\Version 3 No LDAP\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\BLL.dll
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\DAL.dll
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\BLL.pdb
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\DAL.pdb
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+E:\Coding\Three Tier Basic\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\FrameworkControls.dll
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\FrameworkControls.pdb
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\BLL.dll
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.dll
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.dll
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.dll
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\DAL.dll
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.dll
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\BLL.pdb
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\System.Security.AccessControl.xml
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\System.Security.Permissions.xml
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\DAL.pdb
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\DAL.dll.config
+D:\Project_backup\Web App\Web App\FrameworkControls\bin\Debug\SystemSecurityUtil.pdb
+D:\Project_backup\Web App\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.AssemblyReference.cache
+D:\Project_backup\Web App\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CoreCompileInputs.cache
+D:\Project_backup\Web App\Web App\FrameworkControls\obj\Debug\FrameworkControls.csproj.CopyComplete
+D:\Project_backup\Web App\Web App\FrameworkControls\obj\Debug\FrameworkControls.dll
+D:\Project_backup\Web App\Web App\FrameworkControls\obj\Debug\FrameworkControls.pdb

@@ -1,0 +1,164 @@
+E:\HRRating\HRRating\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+E:\HRRating\HRRating\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+E:\HRRating\HRRating\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+E:\HRRating\HRRating\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+E:\HRRating\HRRating\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\HRRating\HRRating\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\HRRating\HRRating\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\HRRating\HRRating\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\HRRating\HRRating\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\HRRating\HRRating\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Bond Management System\Three Tier FrameworkBMW\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Bond Management System\Three Tier FrameworkBMW\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Bond Management System\Three Tier FrameworkBMW\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Bond Management System\Three Tier FrameworkBMW\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Bond Management System\Three Tier FrameworkBMW\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Project\FCRMS Project\FCRMS\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Project\FCRMS Project\FCRMS\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Project\FCRMS Project\FCRMS\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\FCRMS Project\FCRMS\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Project\FCRMS Project\FCRMS\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\FINAL FCRMS\FCRMS\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\FINAL FCRMS\FCRMS\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\FINAL FCRMS\FCRMS\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\FINAL FCRMS\FCRMS\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\FINAL FCRMS\FCRMS\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\HIRAS\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\HIRAS\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\HIRAS\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\HIRAS\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\HIRAS\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Users\BirukZ\Desktop\GyM\GYM\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\BirukZ\Desktop\GyM\GYM\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Users\BirukZ\Desktop\GyM\GYM\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+E:\Biruk Files\# 3 Tier Framework - Copy\GyM\GYM\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+E:\Credit Association\GYM\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+E:\Credit Association\GYM\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+E:\Credit Association\GYM\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\GYM\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+E:\Credit Association\GYM\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+E:\Credit Association\CreditSaving\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+E:\Credit Association\CreditSaving\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+E:\Credit Association\CreditSaving\SDC.Util\obj\Debug\ResolveAssemblyReference.cache
+E:\Credit Association\CreditSaving\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+E:\Credit Association\CreditSaving\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\New folder (7)\CreditSaving\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\New folder (7)\CreditSaving\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\New folder (7)\CreditSaving\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\New folder (7)\CreditSaving\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Printing_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Printing_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Printing_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Printing_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\SC-Project\SC_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\SC-Project\SC_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\SC-Project\SC_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\SC-Project\SC_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Foreign Currency\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Foreign Currency\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Foreign Currency\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Foreign Currency\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\FCRMS Final Application Code\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\FCRMS Final Application Code\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\FCRMS Final Application Code\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\FCRMS Final Application Code\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\FCRMS\Foreign Currency\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.csprojResolveAssemblyReference.cache
+D:\FCRMS\Foreign Currency\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\FCRMS\Foreign Currency\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+E:\Reporting Tool\Foreign Currency\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+E:\Reporting Tool\Foreign Currency\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.csprojResolveAssemblyReference.cache
+D:\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\FRM_Solution\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\FRM_Solution\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\SDC\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\SDC\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\SDC\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\SDC\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+C:\Users\CBE\Desktop\SDC\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+C:\Users\CBE\Desktop\SDC\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+C:\Users\CBE\Desktop\SDC\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+C:\Users\CBE\Desktop\SDC\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+C:\Users\CBE\Desktop\SDC\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+E:\Tutorials from Biruk\Three Tier Framework + DB\Three Tier Framework + DB\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 3\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 4\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Coding\CBE Credit\ASP.NET\Version 9 Validating\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2\LMS\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2\LMS\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2\LMS\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\bin\Debug\SystemSecurityUtil.dll.CodeAnalysisLog.xml
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\bin\Debug\SystemSecurityUtil.dll.lastcodeanalysissucceeded
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Coding\Foreclosure\Version 2 Single Collateral\Foreclosure\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Coding\Exercise\Version 1\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\Exercise\Version 1\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\Exercise\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\Exercise\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Coding\Exercise\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\After Name Changed\Version 3\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Coding\SDC Project Management\Mine\LDAP\Version 4\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.AssemblyReference.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+E:\Coding\Digital Ticketing\Version 1\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.pdb
+D:\Project_backup\Web App\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.dll
+D:\Project_backup\Web App\Web App\SDC.Util\bin\Debug\SystemSecurityUtil.pdb
+D:\Project_backup\Web App\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.AssemblyReference.cache
+D:\Project_backup\Web App\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.csproj.CoreCompileInputs.cache
+D:\Project_backup\Web App\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.dll
+D:\Project_backup\Web App\Web App\SDC.Util\obj\Debug\SystemSecurityUtil.pdb

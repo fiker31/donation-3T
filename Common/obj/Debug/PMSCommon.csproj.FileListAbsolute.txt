@@ -1,0 +1,20 @@
+D:\Project\ChangeManagement\Three Tier Framework\PMSCommon\bin\Debug\ThreeTierFrameworkCommon.dll
+D:\Project\ChangeManagement\Three Tier Framework\PMSCommon\bin\Debug\ThreeTierFrameworkCommon.pdb
+D:\Project\ChangeManagement\Three Tier Framework\PMSCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\ChangeManagement\Three Tier Framework\PMSCommon\obj\Debug\ThreeTierFrameworkCommon.dll
+D:\Project\ChangeManagement\Three Tier Framework\PMSCommon\obj\Debug\ThreeTierFrameworkCommon.pdb
+D:\Project\ChangeManagement\PMS\PMSCommon\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\ChangeManagement\PMS\PMSCommon\bin\Debug\PMSCommon.dll
+D:\Project\ChangeManagement\PMS\PMSCommon\bin\Debug\PMSCommon.pdb
+D:\Project\ChangeManagement\PMS\PMSCommon\obj\Debug\PMSCommon.dll
+D:\Project\ChangeManagement\PMS\PMSCommon\obj\Debug\PMSCommon.pdb
+C:\Documents and Settings\user\Desktop\desk top file\ChangeManagement\PMS\PMSCommon\bin\Debug\PMSCommon.dll
+C:\Documents and Settings\user\Desktop\desk top file\ChangeManagement\PMS\PMSCommon\bin\Debug\PMSCommon.pdb
+C:\Documents and Settings\user\Desktop\desk top file\ChangeManagement\PMS\PMSCommon\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\Desktop\desk top file\ChangeManagement\PMS\PMSCommon\obj\Debug\PMSCommon.dll
+C:\Documents and Settings\user\Desktop\desk top file\ChangeManagement\PMS\PMSCommon\obj\Debug\PMSCommon.pdb
+P:\PMS\PMSCommon\bin\Debug\PMSCommon.dll
+P:\PMS\PMSCommon\bin\Debug\PMSCommon.pdb
+P:\PMS\PMSCommon\obj\Debug\ResolveAssemblyReference.cache
+P:\PMS\PMSCommon\obj\Debug\PMSCommon.dll
+P:\PMS\PMSCommon\obj\Debug\PMSCommon.pdb

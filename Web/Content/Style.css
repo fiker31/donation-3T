@@ -1,0 +1,136 @@
+
+label {
+    font-weight: normal !important;
+}
+
+.nav-link {
+    color: #3C8DBC !important;
+}
+
+.btn-secondary {
+    background-color: #3C8DBC !important;
+    border-color: #3C8DBC !important;
+}
+
+.nav-link:active {
+    opacity: 0.7 !important;
+}
+
+.select2 {
+    padding: unset !important;
+}
+
+.select2-container .select2-selection--single {
+    height: 38px !important;
+}
+
+.AlertMessage {
+    margin-bottom: 23px;
+    margin-top: 15px;
+    animation: fadeInRight 1s ease-in-out;
+    margin-left: 0px !important;
+}
+
+@keyframes fadeInRight {
+    from {
+        opacity: 0;
+        transform: translateX(-300px);
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.validationErrorMessage {
+    border: none !important;
+    background-color: unset !important;
+    color: red !important;
+}
+
+.validatioErrorMessageHeader {
+    color: green;
+}
+
+.menuTreeLinks {
+    display: block;
+    color: black;
+    width: 250px;
+    display: inline-block;
+    padding-top: -100px;
+    opacity: 1;
+}
+
+    .menuTreeLinks a {
+        color: #0468aa !important;
+    }
+
+.btn-xs {
+    font-size: 15px;
+}
+
+.menuTreeLinks a::after {
+    content: "";
+    display: block;
+    margin: auto;
+    height: 2px;
+    width: 0px;
+    background: #0468aa;
+    transition: all 0.4s linear;
+    margin-top: 10px;
+}
+
+.menuTreeLinks a:hover::after {
+    width: 100%;
+}
+
+.imageLogo {
+    -webkit-animation: spin 2s linear infinite;
+    -moz-animation: spin 2s linear infinite;
+    animation: spin 2s linear infinite;
+}
+
+@-moz-keyframes spin {
+    100% {
+        -moz-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+.preloader_img {
+    animation-delay: 2s !important;
+}
+
+h1, h4 {
+    font-weight: normal;
+}
+
+.btn-tool {
+    color: #3C8DBC !important;
+    font-size: 18px;
+}
+
+.nav-item .active {
+    background-color: #3C8DBC !important;
+    color: white !important;
+}
+
+.active {
+    background-color: red !important;
+}
+
+.sidebar-collapse .main-sidebar:hover .nav-sidebar.nav-child-indent .nav-treeview {
+    padding-left: 1rem !important;
+}
